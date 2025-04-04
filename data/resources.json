@@ -3,72 +3,72 @@
         "name": "Bauxite",
         "amount": 12300,
         "percentage_of_total": 0.0373066424021838,
-        "rarity": 26.804878048780488
+        "rarity": 7.487804878048781
     },
     "caterium-ore": {
         "name": "Caterium Ore",
         "amount": 15000,
         "percentage_of_total": 0.04549590536851683,
-        "rarity": 21.98
+        "rarity": 6.140000000000001
     },
     "coal": {
         "name": "Coal",
         "amount": 42300,
         "percentage_of_total": 0.12829845313921748,
-        "rarity": 7.794326241134752
+        "rarity": 2.1773049645390072
     },
     "copper-ore": {
         "name": "Copper",
         "amount": 36900,
         "percentage_of_total": 0.11191992720655142,
-        "rarity": 8.934959349593496
+        "rarity": 2.4959349593495936
     },
     "crude-oil": {
         "name": "Crude Oil",
         "amount": 12600,
         "percentage_of_total": 0.03821656050955414,
-        "rarity": 26.166666666666668
+        "rarity": 7.30952380952381
     },
     "iron-ore": {
         "name": "Iron Ore",
         "amount": 92100,
         "percentage_of_total": 0.27934485896269334,
-        "rarity": 3.579804560260586
+        "rarity": 1.0
     },
     "limestone": {
         "name": "Limestone",
         "amount": 69900,
         "percentage_of_total": 0.21201091901728844,
-        "rarity": 4.716738197424893
+        "rarity": 1.3175965665236051
     },
     "nitrogen-gas": {
         "name": "Nitrogen Gas",
         "amount": 12000,
         "percentage_of_total": 0.036396724294813464,
-        "rarity": 27.475
+        "rarity": 7.675000000000001
     },
     "raw-quartz": {
         "name": "Raw Quartz",
         "amount": 13500,
         "percentage_of_total": 0.04094631483166515,
-        "rarity": 24.42222222222222
+        "rarity": 6.822222222222222
     },
     "sulfur": {
         "name": "Sulfur",
         "amount": 10800,
         "percentage_of_total": 0.03275705186533212,
-        "rarity": 30.52777777777778
+        "rarity": 8.527777777777779
     },
     "uranium": {
         "name": "Uranium",
         "amount": 2100,
         "percentage_of_total": 0.006369426751592357,
-        "rarity": 157.0
+        "rarity": 43.85714285714286
     },
     "sam": {
         "name": "SAM",
         "amount": 10200,
         "percentage_of_total": 0.030937215650591446,
-        "rarity": 32.3235294117647
+        "rarity": 9.029411764705882
     }
 }
