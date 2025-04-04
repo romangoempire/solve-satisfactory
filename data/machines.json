@@ -1,0 +1,46 @@
+{
+    "quantum-encoder": {
+        "name": "Quantum Encoder",
+        "power_consumption": 0
+    },
+    "converter": {
+        "name": "Converter",
+        "power_consumption": 0
+    },
+    "refinery": {
+        "name": "Refinery",
+        "power_consumption": 30
+    },
+    "foundry": {
+        "name": "Foundry",
+        "power_consumption": 16
+    },
+    "packager": {
+        "name": "Packager",
+        "power_consumption": 10
+    },
+    "manufacturer": {
+        "name": "Manufacturer",
+        "power_consumption": 55
+    },
+    "assembler": {
+        "name": "Assembler",
+        "power_consumption": 15
+    },
+    "particle-accelerator": {
+        "name": "Particle Accelerator",
+        "power_consumption": 0
+    },
+    "blender": {
+        "name": "Blender",
+        "power_consumption": 75
+    },
+    "constructor": {
+        "name": "Constructor",
+        "power_consumption": 4
+    },
+    "smelter": {
+        "name": "Smelter",
+        "power_consumption": 4
+    }
+}

@@ -1,954 +1,818 @@
-[
-    {
-        "slug": "adaptive-control-unit",
+{
+    "adaptive-control-unit": {
         "name": "Adaptive Control Unit",
-        "sinkPoints": 76368,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 76368,
+        "energy_value": 0.0
     },
-    {
-        "slug": "ai-expansion-server",
+    "ai-expansion-server": {
         "name": "AI Expansion Server",
-        "sinkPoints": 597652,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 597652,
+        "energy_value": 0.0
     },
-    {
-        "slug": "ai-limiter",
+    "ai-limiter": {
         "name": "AI Limiter",
-        "sinkPoints": 920,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 920,
+        "energy_value": 0.0
     },
-    {
-        "slug": "alclad-aluminum-sheet",
+    "alclad-aluminum-sheet": {
         "name": "Alclad Aluminum Sheet",
-        "sinkPoints": 266,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 266,
+        "energy_value": 0.0
     },
-    {
-        "slug": "alien-power-matrix",
+    "alien-power-matrix": {
         "name": "Alien Power Matrix",
-        "sinkPoints": 210,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 210,
+        "energy_value": 0.0
     },
-    {
-        "slug": "alumina-solution",
+    "alumina-solution": {
         "name": "Alumina Solution",
-        "sinkPoints": 20000,
-        "energyValue": 0.0,
-        "liquid": true
+        "liquid": true,
+        "sink_points": 20000,
+        "energy_value": 0.0
     },
-    {
-        "slug": "aluminum-casing",
+    "aluminum-casing": {
         "name": "Aluminum Casing",
-        "sinkPoints": 393,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 393,
+        "energy_value": 0.0
     },
-    {
-        "slug": "aluminum-ingot",
+    "aluminum-ingot": {
         "name": "Aluminum Ingot",
-        "sinkPoints": 131,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 131,
+        "energy_value": 0.0
     },
-    {
-        "slug": "aluminum-scrap",
+    "aluminum-scrap": {
         "name": "Aluminum Scrap",
-        "sinkPoints": 27,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 27,
+        "energy_value": 0.0
     },
-    {
-        "slug": "assembly-director-system",
+    "assembly-director-system": {
         "name": "Assembly Director System",
-        "sinkPoints": 500176,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 500176,
+        "energy_value": 0.0
     },
-    {
-        "slug": "automated-wiring",
+    "automated-wiring": {
         "name": "Automated Wiring",
-        "sinkPoints": 1440,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 1440,
+        "energy_value": 0.0
     },
-    {
-        "slug": "ballistic-warp-drive",
+    "ballistic-warp-drive": {
         "name": "Ballistic Warp Drive",
-        "sinkPoints": 2895334,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 2895334,
+        "energy_value": 0.0
     },
-    {
-        "slug": "battery",
+    "battery": {
         "name": "Battery",
-        "sinkPoints": 465,
-        "energyValue": 6000.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 465,
+        "energy_value": 6000.0
     },
-    {
-        "slug": "bauxite",
+    "bauxite": {
         "name": "Bauxite",
-        "sinkPoints": 8,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 8,
+        "energy_value": 0.0
     },
-    {
-        "slug": "biochemical-sculptor",
+    "biochemical-sculptor": {
         "name": "Biochemical Sculptor",
-        "sinkPoints": 301778,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 301778,
+        "energy_value": 0.0
     },
-    {
-        "slug": "black-powder",
+    "black-powder": {
         "name": "Black Powder",
-        "sinkPoints": 14,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 14,
+        "energy_value": 0.0
     },
-    {
-        "slug": "cable",
+    "cable": {
         "name": "Cable",
-        "sinkPoints": 24,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 24,
+        "energy_value": 0.0
     },
-    {
-        "slug": "caterium-ingot",
+    "caterium-ingot": {
         "name": "Caterium Ingot",
-        "sinkPoints": 42,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 42,
+        "energy_value": 0.0
     },
-    {
-        "slug": "caterium-ore",
+    "caterium-ore": {
         "name": "Caterium Ore",
-        "sinkPoints": 7,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 7,
+        "energy_value": 0.0
     },
-    {
-        "slug": "circuit-board",
+    "circuit-board": {
         "name": "Circuit Board",
-        "sinkPoints": 696,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 696,
+        "energy_value": 0.0
     },
-    {
-        "slug": "cluster-nobelisk",
+    "cluster-nobelisk": {
         "name": "Cluster Nobelisk",
-        "sinkPoints": 1376,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 1376,
+        "energy_value": 0.0
     },
-    {
-        "slug": "coal",
+    "coal": {
         "name": "Coal",
-        "sinkPoints": 3,
-        "energyValue": 300.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 3,
+        "energy_value": 300.0
     },
-    {
-        "slug": "compacted-coal",
+    "compacted-coal": {
         "name": "Compacted Coal",
-        "sinkPoints": 28,
-        "energyValue": 630.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 28,
+        "energy_value": 630.0
     },
-    {
-        "slug": "computer",
+    "computer": {
         "name": "Computer",
-        "sinkPoints": 8352,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 8352,
+        "energy_value": 0.0
     },
-    {
-        "slug": "concrete",
+    "concrete": {
         "name": "Concrete",
-        "sinkPoints": 12,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 12,
+        "energy_value": 0.0
     },
-    {
-        "slug": "cooling-system",
+    "cooling-system": {
         "name": "Cooling System",
-        "sinkPoints": 12006,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 12006,
+        "energy_value": 0.0
     },
-    {
-        "slug": "copper-ingot",
+    "copper-ingot": {
         "name": "Copper Ingot",
-        "sinkPoints": 6,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 6,
+        "energy_value": 0.0
     },
-    {
-        "slug": "copper-ore",
+    "copper-ore": {
         "name": "Copper Ore",
-        "sinkPoints": 3,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 3,
+        "energy_value": 0.0
     },
-    {
-        "slug": "copper-powder",
+    "copper-powder": {
         "name": "Copper Powder",
-        "sinkPoints": 72,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 72,
+        "energy_value": 0.0
     },
-    {
-        "slug": "copper-sheet",
+    "copper-sheet": {
         "name": "Copper Sheet",
-        "sinkPoints": 24,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 24,
+        "energy_value": 0.0
     },
-    {
-        "slug": "crude-oil",
+    "crude-oil": {
         "name": "Crude Oil",
-        "sinkPoints": 30000,
-        "energyValue": 320.0,
-        "liquid": true
+        "liquid": true,
+        "sink_points": 30000,
+        "energy_value": 320.0
     },
-    {
-        "slug": "crystal-oscillator",
+    "crystal-oscillator": {
         "name": "Crystal Oscillator",
-        "sinkPoints": 3072,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 3072,
+        "energy_value": 0.0
     },
-    {
-        "slug": "dark-matter-crystal",
+    "dark-matter-crystal": {
         "name": "Dark Matter Crystal",
-        "sinkPoints": 1780,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 1780,
+        "energy_value": 0.0
     },
-    {
-        "slug": "dark-matter-residue",
+    "dark-matter-residue": {
         "name": "Dark Matter Residue",
-        "sinkPoints": 130000,
-        "energyValue": 0.0,
-        "liquid": true
+        "liquid": true,
+        "sink_points": 130000,
+        "energy_value": 0.0
     },
-    {
-        "slug": "diamonds",
+    "diamonds": {
         "name": "Diamonds",
-        "sinkPoints": 240,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 240,
+        "energy_value": 0.0
     },
-    {
-        "slug": "dissolved-silica",
+    "dissolved-silica": {
         "name": "Dissolved Silica",
-        "sinkPoints": 0,
-        "energyValue": 0.0,
-        "liquid": true
+        "liquid": true,
+        "sink_points": 0,
+        "energy_value": 0.0
     },
-    {
-        "slug": "electromagnetic-control-rod",
+    "electromagnetic-control-rod": {
         "name": "Electromagnetic Control Rod",
-        "sinkPoints": 2560,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 2560,
+        "energy_value": 0.0
     },
-    {
-        "slug": "empty-canister",
+    "empty-canister": {
         "name": "Empty Canister",
-        "sinkPoints": 60,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 60,
+        "energy_value": 0.0
     },
-    {
-        "slug": "empty-fluid-tank",
+    "empty-fluid-tank": {
         "name": "Empty Fluid Tank",
-        "sinkPoints": 170,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 170,
+        "energy_value": 0.0
     },
-    {
-        "slug": "encased-industrial-beam",
+    "encased-industrial-beam": {
         "name": "Encased Industrial Beam",
-        "sinkPoints": 528,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 528,
+        "energy_value": 0.0
     },
-    {
-        "slug": "encased-plutonium-cell",
+    "encased-plutonium-cell": {
         "name": "Encased Plutonium Cell",
-        "sinkPoints": 0,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 0,
+        "energy_value": 0.0
     },
-    {
-        "slug": "encased-uranium-cell",
+    "encased-uranium-cell": {
         "name": "Encased Uranium Cell",
-        "sinkPoints": 147,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 147,
+        "energy_value": 0.0
     },
-    {
-        "slug": "excited-photonic-matter",
+    "excited-photonic-matter": {
         "name": "Excited Photonic Matter",
-        "sinkPoints": 100000,
-        "energyValue": 0.0,
-        "liquid": true
+        "liquid": true,
+        "sink_points": 100000,
+        "energy_value": 0.0
     },
-    {
-        "slug": "explosive-rebar",
+    "explosive-rebar": {
         "name": "Explosive Rebar",
-        "sinkPoints": 360,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 360,
+        "energy_value": 0.0
     },
-    {
-        "slug": "fabric",
+    "fabric": {
         "name": "Fabric",
-        "sinkPoints": 140,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 140,
+        "energy_value": 0.0
     },
-    {
-        "slug": "ficsite-ingot",
+    "ficsite-ingot": {
         "name": "Ficsite Ingot",
-        "sinkPoints": 1936,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 1936,
+        "energy_value": 0.0
     },
-    {
-        "slug": "ficsite-trigon",
+    "ficsite-trigon": {
         "name": "Ficsite Trigon",
-        "sinkPoints": 1291,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 1291,
+        "energy_value": 0.0
     },
-    {
-        "slug": "ficsonium",
+    "ficsonium": {
         "name": "Ficsonium",
-        "sinkPoints": 0,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 0,
+        "energy_value": 0.0
     },
-    {
-        "slug": "ficsonium-fuel-rod",
+    "ficsonium-fuel-rod": {
         "name": "Ficsonium Fuel Rod",
-        "sinkPoints": 0,
-        "energyValue": 150000.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 0,
+        "energy_value": 150000.0
     },
-    {
-        "slug": "fuel",
+    "fuel": {
         "name": "Fuel",
-        "sinkPoints": 75000,
-        "energyValue": 750.0,
-        "liquid": true
+        "liquid": true,
+        "sink_points": 75000,
+        "energy_value": 750.0
     },
-    {
-        "slug": "fused-modular-frame",
+    "fused-modular-frame": {
         "name": "Fused Modular Frame",
-        "sinkPoints": 62840,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 62840,
+        "energy_value": 0.0
     },
-    {
-        "slug": "gas-filter",
+    "gas-filter": {
         "name": "Gas Filter",
-        "sinkPoints": 608,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 608,
+        "energy_value": 0.0
     },
-    {
-        "slug": "gas-nobelisk",
+    "gas-nobelisk": {
         "name": "Gas Nobelisk",
-        "sinkPoints": 544,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 544,
+        "energy_value": 0.0
     },
-    {
-        "slug": "heat-sink",
+    "heat-sink": {
         "name": "Heat Sink",
-        "sinkPoints": 2804,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 2804,
+        "energy_value": 0.0
     },
-    {
-        "slug": "heavy-modular-frame",
+    "heavy-modular-frame": {
         "name": "Heavy Modular Frame",
-        "sinkPoints": 10800,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 10800,
+        "energy_value": 0.0
     },
-    {
-        "slug": "heavy-oil-residue",
+    "heavy-oil-residue": {
         "name": "Heavy Oil Residue",
-        "sinkPoints": 30000,
-        "energyValue": 400.0,
-        "liquid": true
+        "liquid": true,
+        "sink_points": 30000,
+        "energy_value": 400.0
     },
-    {
-        "slug": "high-speed-connector",
+    "high-speed-connector": {
         "name": "High-Speed Connector",
-        "sinkPoints": 3776,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 3776,
+        "energy_value": 0.0
     },
-    {
-        "slug": "homing-rifle-ammo",
+    "homing-rifle-ammo": {
         "name": "Homing Rifle Ammo",
-        "sinkPoints": 855,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 855,
+        "energy_value": 0.0
     },
-    {
-        "slug": "iodine-infused-filter",
+    "iodine-infused-filter": {
         "name": "Iodine-Infused Filter",
-        "sinkPoints": 2274,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 2274,
+        "energy_value": 0.0
     },
-    {
-        "slug": "ionized-fuel",
+    "ionized-fuel": {
         "name": "Ionized Fuel",
-        "sinkPoints": 2398000,
-        "energyValue": 5000.0,
-        "liquid": true
+        "liquid": true,
+        "sink_points": 2398000,
+        "energy_value": 5000.0
     },
-    {
-        "slug": "iron-ingot",
+    "iron-ingot": {
         "name": "Iron Ingot",
-        "sinkPoints": 2,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 2,
+        "energy_value": 0.0
     },
-    {
-        "slug": "iron-ore",
+    "iron-ore": {
         "name": "Iron Ore",
-        "sinkPoints": 1,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 1,
+        "energy_value": 0.0
     },
-    {
-        "slug": "iron-plate",
+    "iron-plate": {
         "name": "Iron Plate",
-        "sinkPoints": 6,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 6,
+        "energy_value": 0.0
     },
-    {
-        "slug": "iron-rebar",
+    "iron-rebar": {
         "name": "Iron Rebar",
-        "sinkPoints": 8,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 8,
+        "energy_value": 0.0
     },
-    {
-        "slug": "iron-rod",
+    "iron-rod": {
         "name": "Iron Rod",
-        "sinkPoints": 4,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 4,
+        "energy_value": 0.0
     },
-    {
-        "slug": "limestone",
+    "limestone": {
         "name": "Limestone",
-        "sinkPoints": 2,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 2,
+        "energy_value": 0.0
     },
-    {
-        "slug": "magnetic-field-generator",
+    "magnetic-field-generator": {
         "name": "Magnetic Field Generator",
-        "sinkPoints": 11000,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 11000,
+        "energy_value": 0.0
     },
-    {
-        "slug": "modular-engine",
+    "modular-engine": {
         "name": "Modular Engine",
-        "sinkPoints": 9960,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 9960,
+        "energy_value": 0.0
     },
-    {
-        "slug": "modular-frame",
+    "modular-frame": {
         "name": "Modular Frame",
-        "sinkPoints": 408,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 408,
+        "energy_value": 0.0
     },
-    {
-        "slug": "motor",
+    "motor": {
         "name": "Motor",
-        "sinkPoints": 1520,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 1520,
+        "energy_value": 0.0
     },
-    {
-        "slug": "neural-quantum-processor",
+    "neural-quantum-processor": {
         "name": "Neural-Quantum Processor",
-        "sinkPoints": 248034,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 248034,
+        "energy_value": 0.0
     },
-    {
-        "slug": "nitric-acid",
+    "nitric-acid": {
         "name": "Nitric Acid",
-        "sinkPoints": 94000,
-        "energyValue": 0.0,
-        "liquid": true
+        "liquid": true,
+        "sink_points": 94000,
+        "energy_value": 0.0
     },
-    {
-        "slug": "nitrogen-gas",
+    "nitrogen-gas": {
         "name": "Nitrogen Gas",
-        "sinkPoints": 10000,
-        "energyValue": 0.0,
-        "liquid": true
+        "liquid": true,
+        "sink_points": 10000,
+        "energy_value": 0.0
     },
-    {
-        "slug": "nobelisk",
+    "nobelisk": {
         "name": "Nobelisk",
-        "sinkPoints": 152,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 152,
+        "energy_value": 0.0
     },
-    {
-        "slug": "non-fissile-uranium",
+    "non-fissile-uranium": {
         "name": "Non-Fissile Uranium",
-        "sinkPoints": 0,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 0,
+        "energy_value": 0.0
     },
-    {
-        "slug": "nuclear-pasta",
+    "nuclear-pasta": {
         "name": "Nuclear Pasta",
-        "sinkPoints": 538976,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 538976,
+        "energy_value": 0.0
     },
-    {
-        "slug": "nuke-nobelisk",
+    "nuke-nobelisk": {
         "name": "Nuke Nobelisk",
-        "sinkPoints": 19600,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 19600,
+        "energy_value": 0.0
     },
-    {
-        "slug": "packaged-alumina-solution",
+    "packaged-alumina-solution": {
         "name": "Packaged Alumina Solution",
-        "sinkPoints": 160,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 160,
+        "energy_value": 0.0
     },
-    {
-        "slug": "packaged-fuel",
+    "packaged-fuel": {
         "name": "Packaged Fuel",
-        "sinkPoints": 270,
-        "energyValue": 750.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 270,
+        "energy_value": 750.0
     },
-    {
-        "slug": "packaged-heavy-oil-residue",
+    "packaged-heavy-oil-residue": {
         "name": "Packaged Heavy Oil Residue",
-        "sinkPoints": 180,
-        "energyValue": 400.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 180,
+        "energy_value": 400.0
     },
-    {
-        "slug": "packaged-ionized-fuel",
+    "packaged-ionized-fuel": {
         "name": "Packaged Ionized Fuel",
-        "sinkPoints": 5246,
-        "energyValue": 10000.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 5246,
+        "energy_value": 10000.0
     },
-    {
-        "slug": "packaged-nitric-acid",
+    "packaged-nitric-acid": {
         "name": "Packaged Nitric Acid",
-        "sinkPoints": 412,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 412,
+        "energy_value": 0.0
     },
-    {
-        "slug": "packaged-nitrogen-gas",
+    "packaged-nitrogen-gas": {
         "name": "Packaged Nitrogen Gas",
-        "sinkPoints": 312,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 312,
+        "energy_value": 0.0
     },
-    {
-        "slug": "packaged-oil",
+    "packaged-oil": {
         "name": "Packaged Oil",
-        "sinkPoints": 180,
-        "energyValue": 320.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 180,
+        "energy_value": 320.0
     },
-    {
-        "slug": "packaged-rocket-fuel",
+    "packaged-rocket-fuel": {
         "name": "Packaged Rocket Fuel",
-        "sinkPoints": 1028,
-        "energyValue": 7200.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 1028,
+        "energy_value": 7200.0
     },
-    {
-        "slug": "packaged-sulfuric-acid",
+    "packaged-sulfuric-acid": {
         "name": "Packaged Sulfuric Acid",
-        "sinkPoints": 152,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 152,
+        "energy_value": 0.0
     },
-    {
-        "slug": "packaged-turbofuel",
+    "packaged-turbofuel": {
         "name": "Packaged Turbofuel",
-        "sinkPoints": 570,
-        "energyValue": 2000.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 570,
+        "energy_value": 2000.0
     },
-    {
-        "slug": "packaged-water",
+    "packaged-water": {
         "name": "Packaged Water",
-        "sinkPoints": 130,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 130,
+        "energy_value": 0.0
     },
-    {
-        "slug": "petroleum-coke",
+    "petroleum-coke": {
         "name": "Petroleum Coke",
-        "sinkPoints": 20,
-        "energyValue": 180.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 20,
+        "energy_value": 180.0
     },
-    {
-        "slug": "plastic",
+    "plastic": {
         "name": "Plastic",
-        "sinkPoints": 75,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 75,
+        "energy_value": 0.0
     },
-    {
-        "slug": "plutonium-fuel-rod",
+    "plutonium-fuel-rod": {
         "name": "Plutonium Fuel Rod",
-        "sinkPoints": 153184,
-        "energyValue": 1500000.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 153184,
+        "energy_value": 1500000.0
     },
-    {
-        "slug": "plutonium-pellet",
+    "plutonium-pellet": {
         "name": "Plutonium Pellet",
-        "sinkPoints": 0,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 0,
+        "energy_value": 0.0
     },
-    {
-        "slug": "plutonium-waste",
+    "plutonium-waste": {
         "name": "Plutonium Waste",
-        "sinkPoints": 0,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 0,
+        "energy_value": 0.0
     },
-    {
-        "slug": "polymer-resin",
+    "polymer-resin": {
         "name": "Polymer Resin",
-        "sinkPoints": 12,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 12,
+        "energy_value": 0.0
     },
-    {
-        "slug": "portable-miner",
+    "portable-miner": {
         "name": "Portable Miner",
-        "sinkPoints": 56,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 56,
+        "energy_value": 0.0
     },
-    {
-        "slug": "power-shard",
+    "power-shard": {
         "name": "Power Shard",
-        "sinkPoints": 0,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 0,
+        "energy_value": 0.0
     },
-    {
-        "slug": "pressure-conversion-cube",
+    "pressure-conversion-cube": {
         "name": "Pressure Conversion Cube",
-        "sinkPoints": 255088,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 255088,
+        "energy_value": 0.0
     },
-    {
-        "slug": "pulse-nobelisk",
+    "pulse-nobelisk": {
         "name": "Pulse Nobelisk",
-        "sinkPoints": 1533,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 1533,
+        "energy_value": 0.0
     },
-    {
-        "slug": "quartz-crystal",
+    "quartz-crystal": {
         "name": "Quartz Crystal",
-        "sinkPoints": 50,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 50,
+        "energy_value": 0.0
     },
-    {
-        "slug": "quickwire",
+    "quickwire": {
         "name": "Quickwire",
-        "sinkPoints": 17,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 17,
+        "energy_value": 0.0
     },
-    {
-        "slug": "radio-control-unit",
+    "radio-control-unit": {
         "name": "Radio Control Unit",
-        "sinkPoints": 32352,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 32352,
+        "energy_value": 0.0
     },
-    {
-        "slug": "raw-quartz",
+    "raw-quartz": {
         "name": "Raw Quartz",
-        "sinkPoints": 15,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 15,
+        "energy_value": 0.0
     },
-    {
-        "slug": "reanimated-sam",
+    "reanimated-sam": {
         "name": "Reanimated SAM",
-        "sinkPoints": 160,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 160,
+        "energy_value": 0.0
     },
-    {
-        "slug": "reinforced-iron-plate",
+    "reinforced-iron-plate": {
         "name": "Reinforced Iron Plate",
-        "sinkPoints": 120,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 120,
+        "energy_value": 0.0
     },
-    {
-        "slug": "rifle-ammo",
+    "rifle-ammo": {
         "name": "Rifle Ammo",
-        "sinkPoints": 25,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 25,
+        "energy_value": 0.0
     },
-    {
-        "slug": "rocket-fuel",
+    "rocket-fuel": {
         "name": "Rocket Fuel",
-        "sinkPoints": 289000,
-        "energyValue": 3600.0,
-        "liquid": true
+        "liquid": true,
+        "sink_points": 289000,
+        "energy_value": 3600.0
     },
-    {
-        "slug": "rotor",
+    "rotor": {
         "name": "Rotor",
-        "sinkPoints": 140,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 140,
+        "energy_value": 0.0
     },
-    {
-        "slug": "rubber",
+    "rubber": {
         "name": "Rubber",
-        "sinkPoints": 60,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 60,
+        "energy_value": 0.0
     },
-    {
-        "slug": "sam",
+    "sam": {
         "name": "SAM",
-        "sinkPoints": 20,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 20,
+        "energy_value": 0.0
     },
-    {
-        "slug": "sam-fluctuator",
+    "sam-fluctuator": {
         "name": "SAM Fluctuator",
-        "sinkPoints": 1968,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 1968,
+        "energy_value": 0.0
     },
-    {
-        "slug": "screw",
+    "screw": {
         "name": "Screw",
-        "sinkPoints": 2,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 2,
+        "energy_value": 0.0
     },
-    {
-        "slug": "shatter-rebar",
+    "shatter-rebar": {
         "name": "Shatter Rebar",
-        "sinkPoints": 332,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 332,
+        "energy_value": 0.0
     },
-    {
-        "slug": "silica",
+    "silica": {
         "name": "Silica",
-        "sinkPoints": 20,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 20,
+        "energy_value": 0.0
     },
-    {
-        "slug": "singularity-cell",
+    "singularity-cell": {
         "name": "Singularity Cell",
-        "sinkPoints": 114675,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 114675,
+        "energy_value": 0.0
     },
-    {
-        "slug": "smart-plating",
+    "smart-plating": {
         "name": "Smart Plating",
-        "sinkPoints": 520,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 520,
+        "energy_value": 0.0
     },
-    {
-        "slug": "smokeless-powder",
+    "smokeless-powder": {
         "name": "Smokeless Powder",
-        "sinkPoints": 58,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 58,
+        "energy_value": 0.0
     },
-    {
-        "slug": "stator",
+    "stator": {
         "name": "Stator",
-        "sinkPoints": 240,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 240,
+        "energy_value": 0.0
     },
-    {
-        "slug": "steel-beam",
+    "steel-beam": {
         "name": "Steel Beam",
-        "sinkPoints": 64,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 64,
+        "energy_value": 0.0
     },
-    {
-        "slug": "steel-ingot",
+    "steel-ingot": {
         "name": "Steel Ingot",
-        "sinkPoints": 8,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 8,
+        "energy_value": 0.0
     },
-    {
-        "slug": "steel-pipe",
+    "steel-pipe": {
         "name": "Steel Pipe",
-        "sinkPoints": 24,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 24,
+        "energy_value": 0.0
     },
-    {
-        "slug": "stun-rebar",
+    "stun-rebar": {
         "name": "Stun Rebar",
-        "sinkPoints": 186,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 186,
+        "energy_value": 0.0
     },
-    {
-        "slug": "sulfur",
+    "sulfur": {
         "name": "Sulfur",
-        "sinkPoints": 11,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 11,
+        "energy_value": 0.0
     },
-    {
-        "slug": "sulfuric-acid",
+    "sulfuric-acid": {
         "name": "Sulfuric Acid",
-        "sinkPoints": 16000,
-        "energyValue": 0.0,
-        "liquid": true
+        "liquid": true,
+        "sink_points": 16000,
+        "energy_value": 0.0
     },
-    {
-        "slug": "supercomputer",
+    "supercomputer": {
         "name": "Supercomputer",
-        "sinkPoints": 97352,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 97352,
+        "energy_value": 0.0
     },
-    {
-        "slug": "superposition-oscillator",
+    "superposition-oscillator": {
         "name": "Superposition Oscillator",
-        "sinkPoints": 37292,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 37292,
+        "energy_value": 0.0
     },
-    {
-        "slug": "thermal-propulsion-rocket",
+    "thermal-propulsion-rocket": {
         "name": "Thermal Propulsion Rocket",
-        "sinkPoints": 728508,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 728508,
+        "energy_value": 0.0
     },
-    {
-        "slug": "time-crystal",
+    "time-crystal": {
         "name": "Time Crystal",
-        "sinkPoints": 960,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 960,
+        "energy_value": 0.0
     },
-    {
-        "slug": "turbo-motor",
+    "turbo-motor": {
         "name": "Turbo Motor",
-        "sinkPoints": 240496,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 240496,
+        "energy_value": 0.0
     },
-    {
-        "slug": "turbo-rifle-ammo",
+    "turbo-rifle-ammo": {
         "name": "Turbo Rifle Ammo",
-        "sinkPoints": 120,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 120,
+        "energy_value": 0.0
     },
-    {
-        "slug": "turbofuel",
+    "turbofuel": {
         "name": "Turbofuel",
-        "sinkPoints": 225000,
-        "energyValue": 2000.0,
-        "liquid": true
+        "liquid": true,
+        "sink_points": 225000,
+        "energy_value": 2000.0
     },
-    {
-        "slug": "uranium",
+    "uranium": {
         "name": "Uranium",
-        "sinkPoints": 35,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 35,
+        "energy_value": 0.0
     },
-    {
-        "slug": "uranium-fuel-rod",
+    "uranium-fuel-rod": {
         "name": "Uranium Fuel Rod",
-        "sinkPoints": 43468,
-        "energyValue": 750000.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 43468,
+        "energy_value": 750000.0
     },
-    {
-        "slug": "uranium-waste",
+    "uranium-waste": {
         "name": "Uranium Waste",
-        "sinkPoints": 0,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 0,
+        "energy_value": 0.0
     },
-    {
-        "slug": "versatile-framework",
+    "versatile-framework": {
         "name": "Versatile Framework",
-        "sinkPoints": 1176,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 1176,
+        "energy_value": 0.0
     },
-    {
-        "slug": "water",
+    "water": {
         "name": "Water",
-        "sinkPoints": 5000,
-        "energyValue": 0.0,
-        "liquid": true
+        "liquid": true,
+        "sink_points": 5000,
+        "energy_value": 0.0
     },
-    {
-        "slug": "wire",
+    "wire": {
         "name": "Wire",
-        "sinkPoints": 6,
-        "energyValue": 0.0,
-        "liquid": false
+        "liquid": false,
+        "sink_points": 6,
+        "energy_value": 0.0
     }
-]
+}

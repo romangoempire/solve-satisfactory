@@ -1,6 +1,5 @@
-[
-    {
-        "slug": "recipe-ironplate",
+{
+    "recipe-ironplate": {
         "name": "Iron Plate",
         "alternate": false,
         "time": 6.0,
@@ -18,13 +17,12 @@
                 "amount_per_minute": 20.0
             }
         ],
-        "producedIn": "constructor",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "constructor",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-ironrod",
+    "recipe-ironrod": {
         "name": "Iron Rod",
         "alternate": false,
         "time": 4.0,
@@ -42,13 +40,12 @@
                 "amount_per_minute": 15.0
             }
         ],
-        "producedIn": "constructor",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "constructor",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-ingotiron",
+    "recipe-ingotiron": {
         "name": "Iron Ingot",
         "alternate": false,
         "time": 2.0,
@@ -66,13 +63,12 @@
                 "amount_per_minute": 30.0
             }
         ],
-        "producedIn": "smelter",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "smelter",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-rocketfuel-nitro",
+    "recipe-alternate-rocketfuel-nitro": {
         "name": "Alternate: Nitro Rocket Fuel",
         "alternate": true,
         "time": 2.4,
@@ -110,13 +106,12 @@
                 "amount_per_minute": 25.0
             }
         ],
-        "producedIn": "blender",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "blender",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-rocketfuel",
+    "recipe-rocketfuel": {
         "name": "Rocket Fuel",
         "alternate": false,
         "time": 6.0,
@@ -144,13 +139,12 @@
                 "amount_per_minute": 10.0
             }
         ],
-        "producedIn": "blender",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "blender",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-packagedrocketfuel",
+    "recipe-packagedrocketfuel": {
         "name": "Packaged Rocket Fuel",
         "alternate": false,
         "time": 1.0,
@@ -173,13 +167,12 @@
                 "amount_per_minute": 60.0
             }
         ],
-        "producedIn": "packager",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "packager",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-unpackagerocketfuel",
+    "recipe-unpackagerocketfuel": {
         "name": "Unpackage Rocket Fuel",
         "alternate": false,
         "time": 1.0,
@@ -202,13 +195,12 @@
                 "amount_per_minute": 60.0
             }
         ],
-        "producedIn": "packager",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "packager",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-ionizedfuel-dark",
+    "recipe-alternate-ionizedfuel-dark": {
         "name": "Alternate: Dark-Ion Fuel",
         "alternate": true,
         "time": 3.0,
@@ -236,13 +228,12 @@
                 "amount_per_minute": 40.0
             }
         ],
-        "producedIn": "converter",
-        "isVariablePower": true,
-        "minPower": 100,
-        "maxPower": 400
+        "produced_in": "converter",
+        "is_variable_power": true,
+        "min_power": 100,
+        "max_power": 400
     },
-    {
-        "slug": "recipe-darkenergy",
+    "recipe-darkenergy": {
         "name": "Dark Matter Residue",
         "alternate": false,
         "time": 6.0,
@@ -260,13 +251,12 @@
                 "amount_per_minute": 100.0
             }
         ],
-        "producedIn": "converter",
-        "isVariablePower": true,
-        "minPower": 100,
-        "maxPower": 400
+        "produced_in": "converter",
+        "is_variable_power": true,
+        "min_power": 100,
+        "max_power": 400
     },
-    {
-        "slug": "recipe-quantumenergy",
+    "recipe-quantumenergy": {
         "name": "Excited Photonic Matter",
         "alternate": false,
         "time": 3.0,
@@ -278,13 +268,12 @@
                 "amount_per_minute": 200.0
             }
         ],
-        "producedIn": "converter",
-        "isVariablePower": true,
-        "minPower": 100,
-        "maxPower": 400
+        "produced_in": "converter",
+        "is_variable_power": true,
+        "min_power": 100,
+        "max_power": 400
     },
-    {
-        "slug": "recipe-darkmatter",
+    "recipe-darkmatter": {
         "name": "Dark Matter Crystal",
         "alternate": false,
         "time": 2.0,
@@ -307,13 +296,12 @@
                 "amount_per_minute": 30.0
             }
         ],
-        "producedIn": "particle-accelerator",
-        "isVariablePower": true,
-        "minPower": 500,
-        "maxPower": 1500
+        "produced_in": "particle-accelerator",
+        "is_variable_power": true,
+        "min_power": 500,
+        "max_power": 1500
     },
-    {
-        "slug": "recipe-superpositionoscillator",
+    "recipe-superpositionoscillator": {
         "name": "Superposition Oscillator",
         "alternate": false,
         "time": 12.0,
@@ -351,13 +339,12 @@
                 "amount_per_minute": 125.0
             }
         ],
-        "producedIn": "quantum-encoder",
-        "isVariablePower": true,
-        "minPower": 0,
-        "maxPower": 2000
+        "produced_in": "quantum-encoder",
+        "is_variable_power": true,
+        "min_power": 0,
+        "max_power": 2000
     },
-    {
-        "slug": "recipe-temporalprocessor",
+    "recipe-temporalprocessor": {
         "name": "Neural-Quantum Processor",
         "alternate": false,
         "time": 20.0,
@@ -395,13 +382,12 @@
                 "amount_per_minute": 75.0
             }
         ],
-        "producedIn": "quantum-encoder",
-        "isVariablePower": true,
-        "minPower": 0,
-        "maxPower": 2000
+        "produced_in": "quantum-encoder",
+        "is_variable_power": true,
+        "min_power": 0,
+        "max_power": 2000
     },
-    {
-        "slug": "recipe-spaceelevatorpart-12",
+    "recipe-spaceelevatorpart-12": {
         "name": "AI Expansion Server",
         "alternate": false,
         "time": 15.0,
@@ -439,13 +425,12 @@
                 "amount_per_minute": 100.0
             }
         ],
-        "producedIn": "quantum-encoder",
-        "isVariablePower": true,
-        "minPower": 0,
-        "maxPower": 2000
+        "produced_in": "quantum-encoder",
+        "is_variable_power": true,
+        "min_power": 0,
+        "max_power": 2000
     },
-    {
-        "slug": "recipe-ionizedfuel",
+    "recipe-ionizedfuel": {
         "name": "Ionized Fuel",
         "alternate": false,
         "time": 24.0,
@@ -473,13 +458,12 @@
                 "amount_per_minute": 5.0
             }
         ],
-        "producedIn": "refinery",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "refinery",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-packagedionizedfuel",
+    "recipe-packagedionizedfuel": {
         "name": "Packaged Ionized Fuel",
         "alternate": false,
         "time": 3.0,
@@ -502,13 +486,12 @@
                 "amount_per_minute": 40.0
             }
         ],
-        "producedIn": "packager",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "packager",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-unpackageionizedfuel",
+    "recipe-unpackageionizedfuel": {
         "name": "Unpackage Ionized Fuel",
         "alternate": false,
         "time": 3.0,
@@ -531,13 +514,12 @@
                 "amount_per_minute": 40.0
             }
         ],
-        "producedIn": "packager",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "packager",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-diamond-turbo",
+    "recipe-alternate-diamond-turbo": {
         "name": "Alternate: Turbo Diamonds",
         "alternate": true,
         "time": 3.0,
@@ -560,13 +542,12 @@
                 "amount_per_minute": 60.0
             }
         ],
-        "producedIn": "particle-accelerator",
-        "isVariablePower": true,
-        "minPower": 250,
-        "maxPower": 750
+        "produced_in": "particle-accelerator",
+        "is_variable_power": true,
+        "min_power": 250,
+        "max_power": 750
     },
-    {
-        "slug": "recipe-samfluctuator",
+    "recipe-samfluctuator": {
         "name": "SAM Fluctuator",
         "alternate": false,
         "time": 6.0,
@@ -594,13 +575,12 @@
                 "amount_per_minute": 10.0
             }
         ],
-        "producedIn": "manufacturer",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "manufacturer",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-ficsitemesh",
+    "recipe-ficsitemesh": {
         "name": "Ficsite Trigon",
         "alternate": false,
         "time": 6.0,
@@ -618,13 +598,12 @@
                 "amount_per_minute": 30.0
             }
         ],
-        "producedIn": "constructor",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "constructor",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-ficsiteingot-iron",
+    "recipe-ficsiteingot-iron": {
         "name": "Ficsite Ingot (Iron)",
         "alternate": false,
         "time": 6.0,
@@ -647,13 +626,12 @@
                 "amount_per_minute": 10.0
             }
         ],
-        "producedIn": "converter",
-        "isVariablePower": true,
-        "minPower": 100,
-        "maxPower": 400
+        "produced_in": "converter",
+        "is_variable_power": true,
+        "min_power": 100,
+        "max_power": 400
     },
-    {
-        "slug": "recipe-timecrystal",
+    "recipe-timecrystal": {
         "name": "Time Crystal",
         "alternate": false,
         "time": 10.0,
@@ -671,13 +649,12 @@
                 "amount_per_minute": 6.0
             }
         ],
-        "producedIn": "converter",
-        "isVariablePower": true,
-        "minPower": 100,
-        "maxPower": 400
+        "produced_in": "converter",
+        "is_variable_power": true,
+        "min_power": 100,
+        "max_power": 400
     },
-    {
-        "slug": "recipe-diamond",
+    "recipe-diamond": {
         "name": "Diamonds",
         "alternate": false,
         "time": 2.0,
@@ -695,13 +672,12 @@
                 "amount_per_minute": 30.0
             }
         ],
-        "producedIn": "particle-accelerator",
-        "isVariablePower": true,
-        "minPower": 250,
-        "maxPower": 750
+        "produced_in": "particle-accelerator",
+        "is_variable_power": true,
+        "min_power": 250,
+        "max_power": 750
     },
-    {
-        "slug": "recipe-ingotsam",
+    "recipe-ingotsam": {
         "name": "Reanimated SAM",
         "alternate": false,
         "time": 2.0,
@@ -719,13 +695,12 @@
                 "amount_per_minute": 30.0
             }
         ],
-        "producedIn": "constructor",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "constructor",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-spaceelevatorpart-10",
+    "recipe-spaceelevatorpart-10": {
         "name": "Biochemical Sculptor",
         "alternate": false,
         "time": 120.0,
@@ -753,13 +728,12 @@
                 "amount_per_minute": 2.0
             }
         ],
-        "producedIn": "blender",
-        "isVariablePower": true,
-        "minPower": 500,
-        "maxPower": 1500
+        "produced_in": "blender",
+        "is_variable_power": true,
+        "min_power": 500,
+        "max_power": 1500
     },
-    {
-        "slug": "recipe-ficsiteingot-al",
+    "recipe-ficsiteingot-al": {
         "name": "Ficsite Ingot (Aluminum)",
         "alternate": false,
         "time": 2.0,
@@ -782,13 +756,12 @@
                 "amount_per_minute": 30.0
             }
         ],
-        "producedIn": "converter",
-        "isVariablePower": true,
-        "minPower": 100,
-        "maxPower": 400
+        "produced_in": "converter",
+        "is_variable_power": true,
+        "min_power": 100,
+        "max_power": 400
     },
-    {
-        "slug": "recipe-ficsiteingot-cat",
+    "recipe-ficsiteingot-cat": {
         "name": "Ficsite Ingot (Caterium)",
         "alternate": false,
         "time": 4.0,
@@ -811,13 +784,12 @@
                 "amount_per_minute": 15.0
             }
         ],
-        "producedIn": "converter",
-        "isVariablePower": true,
-        "minPower": 100,
-        "maxPower": 400
+        "produced_in": "converter",
+        "is_variable_power": true,
+        "min_power": 100,
+        "max_power": 400
     },
-    {
-        "slug": "recipe-bauxite-caterium",
+    "recipe-bauxite-caterium": {
         "name": "Bauxite (Caterium)",
         "alternate": false,
         "time": 6.0,
@@ -840,13 +812,12 @@
                 "amount_per_minute": 120.0
             }
         ],
-        "producedIn": "converter",
-        "isVariablePower": true,
-        "minPower": 100,
-        "maxPower": 400
+        "produced_in": "converter",
+        "is_variable_power": true,
+        "min_power": 100,
+        "max_power": 400
     },
-    {
-        "slug": "recipe-bauxite-copper",
+    "recipe-bauxite-copper": {
         "name": "Bauxite (Copper)",
         "alternate": false,
         "time": 6.0,
@@ -869,13 +840,12 @@
                 "amount_per_minute": 120.0
             }
         ],
-        "producedIn": "converter",
-        "isVariablePower": true,
-        "minPower": 100,
-        "maxPower": 400
+        "produced_in": "converter",
+        "is_variable_power": true,
+        "min_power": 100,
+        "max_power": 400
     },
-    {
-        "slug": "recipe-caterium-copper",
+    "recipe-caterium-copper": {
         "name": "Caterium Ore (Copper)",
         "alternate": false,
         "time": 6.0,
@@ -898,13 +868,12 @@
                 "amount_per_minute": 120.0
             }
         ],
-        "producedIn": "converter",
-        "isVariablePower": true,
-        "minPower": 100,
-        "maxPower": 400
+        "produced_in": "converter",
+        "is_variable_power": true,
+        "min_power": 100,
+        "max_power": 400
     },
-    {
-        "slug": "recipe-caterium-quartz",
+    "recipe-caterium-quartz": {
         "name": "Caterium Ore (Quartz)",
         "alternate": false,
         "time": 6.0,
@@ -927,13 +896,12 @@
                 "amount_per_minute": 120.0
             }
         ],
-        "producedIn": "converter",
-        "isVariablePower": true,
-        "minPower": 100,
-        "maxPower": 400
+        "produced_in": "converter",
+        "is_variable_power": true,
+        "min_power": 100,
+        "max_power": 400
     },
-    {
-        "slug": "recipe-coal-iron",
+    "recipe-coal-iron": {
         "name": "Coal (Iron)",
         "alternate": false,
         "time": 6.0,
@@ -956,13 +924,12 @@
                 "amount_per_minute": 120.0
             }
         ],
-        "producedIn": "converter",
-        "isVariablePower": true,
-        "minPower": 100,
-        "maxPower": 400
+        "produced_in": "converter",
+        "is_variable_power": true,
+        "min_power": 100,
+        "max_power": 400
     },
-    {
-        "slug": "recipe-coal-limestone",
+    "recipe-coal-limestone": {
         "name": "Coal (Limestone)",
         "alternate": false,
         "time": 6.0,
@@ -985,13 +952,12 @@
                 "amount_per_minute": 120.0
             }
         ],
-        "producedIn": "converter",
-        "isVariablePower": true,
-        "minPower": 100,
-        "maxPower": 400
+        "produced_in": "converter",
+        "is_variable_power": true,
+        "min_power": 100,
+        "max_power": 400
     },
-    {
-        "slug": "recipe-copper-quartz",
+    "recipe-copper-quartz": {
         "name": "Copper Ore (Quartz)",
         "alternate": false,
         "time": 6.0,
@@ -1014,13 +980,12 @@
                 "amount_per_minute": 120.0
             }
         ],
-        "producedIn": "converter",
-        "isVariablePower": true,
-        "minPower": 100,
-        "maxPower": 400
+        "produced_in": "converter",
+        "is_variable_power": true,
+        "min_power": 100,
+        "max_power": 400
     },
-    {
-        "slug": "recipe-copper-sulfur",
+    "recipe-copper-sulfur": {
         "name": "Copper Ore (Sulfur)",
         "alternate": false,
         "time": 6.0,
@@ -1043,13 +1008,12 @@
                 "amount_per_minute": 120.0
             }
         ],
-        "producedIn": "converter",
-        "isVariablePower": true,
-        "minPower": 100,
-        "maxPower": 400
+        "produced_in": "converter",
+        "is_variable_power": true,
+        "min_power": 100,
+        "max_power": 400
     },
-    {
-        "slug": "recipe-iron-limestone",
+    "recipe-iron-limestone": {
         "name": "Iron Ore (Limestone)",
         "alternate": false,
         "time": 6.0,
@@ -1072,13 +1036,12 @@
                 "amount_per_minute": 120.0
             }
         ],
-        "producedIn": "converter",
-        "isVariablePower": true,
-        "minPower": 100,
-        "maxPower": 400
+        "produced_in": "converter",
+        "is_variable_power": true,
+        "min_power": 100,
+        "max_power": 400
     },
-    {
-        "slug": "recipe-limestone-sulfur",
+    "recipe-limestone-sulfur": {
         "name": "Limestone (Sulfur)",
         "alternate": false,
         "time": 6.0,
@@ -1101,13 +1064,12 @@
                 "amount_per_minute": 120.0
             }
         ],
-        "producedIn": "converter",
-        "isVariablePower": true,
-        "minPower": 100,
-        "maxPower": 400
+        "produced_in": "converter",
+        "is_variable_power": true,
+        "min_power": 100,
+        "max_power": 400
     },
-    {
-        "slug": "recipe-nitrogen-bauxite",
+    "recipe-nitrogen-bauxite": {
         "name": "Nitrogen Gas (Bauxite)",
         "alternate": false,
         "time": 6.0,
@@ -1130,13 +1092,12 @@
                 "amount_per_minute": 120.0
             }
         ],
-        "producedIn": "converter",
-        "isVariablePower": true,
-        "minPower": 100,
-        "maxPower": 400
+        "produced_in": "converter",
+        "is_variable_power": true,
+        "min_power": 100,
+        "max_power": 400
     },
-    {
-        "slug": "recipe-nitrogen-caterium",
+    "recipe-nitrogen-caterium": {
         "name": "Nitrogen Gas (Caterium)",
         "alternate": false,
         "time": 6.0,
@@ -1159,13 +1120,12 @@
                 "amount_per_minute": 120.0
             }
         ],
-        "producedIn": "converter",
-        "isVariablePower": true,
-        "minPower": 100,
-        "maxPower": 400
+        "produced_in": "converter",
+        "is_variable_power": true,
+        "min_power": 100,
+        "max_power": 400
     },
-    {
-        "slug": "recipe-quartz-bauxite",
+    "recipe-quartz-bauxite": {
         "name": "Raw Quartz (Bauxite)",
         "alternate": false,
         "time": 6.0,
@@ -1188,13 +1148,12 @@
                 "amount_per_minute": 120.0
             }
         ],
-        "producedIn": "converter",
-        "isVariablePower": true,
-        "minPower": 100,
-        "maxPower": 400
+        "produced_in": "converter",
+        "is_variable_power": true,
+        "min_power": 100,
+        "max_power": 400
     },
-    {
-        "slug": "recipe-quartz-coal",
+    "recipe-quartz-coal": {
         "name": "Raw Quartz (Coal)",
         "alternate": false,
         "time": 6.0,
@@ -1217,13 +1176,12 @@
                 "amount_per_minute": 120.0
             }
         ],
-        "producedIn": "converter",
-        "isVariablePower": true,
-        "minPower": 100,
-        "maxPower": 400
+        "produced_in": "converter",
+        "is_variable_power": true,
+        "min_power": 100,
+        "max_power": 400
     },
-    {
-        "slug": "recipe-sulfur-coal",
+    "recipe-sulfur-coal": {
         "name": "Sulfur (Coal)",
         "alternate": false,
         "time": 6.0,
@@ -1246,13 +1204,12 @@
                 "amount_per_minute": 120.0
             }
         ],
-        "producedIn": "converter",
-        "isVariablePower": true,
-        "minPower": 100,
-        "maxPower": 400
+        "produced_in": "converter",
+        "is_variable_power": true,
+        "min_power": 100,
+        "max_power": 400
     },
-    {
-        "slug": "recipe-sulfur-iron",
+    "recipe-sulfur-iron": {
         "name": "Sulfur (Iron)",
         "alternate": false,
         "time": 6.0,
@@ -1275,13 +1232,12 @@
                 "amount_per_minute": 120.0
             }
         ],
-        "producedIn": "converter",
-        "isVariablePower": true,
-        "minPower": 100,
-        "maxPower": 400
+        "produced_in": "converter",
+        "is_variable_power": true,
+        "min_power": 100,
+        "max_power": 400
     },
-    {
-        "slug": "recipe-uranium-bauxite",
+    "recipe-uranium-bauxite": {
         "name": "Uranium Ore (Bauxite)",
         "alternate": false,
         "time": 6.0,
@@ -1304,13 +1260,12 @@
                 "amount_per_minute": 120.0
             }
         ],
-        "producedIn": "converter",
-        "isVariablePower": true,
-        "minPower": 100,
-        "maxPower": 400
+        "produced_in": "converter",
+        "is_variable_power": true,
+        "min_power": 100,
+        "max_power": 400
     },
-    {
-        "slug": "recipe-alternate-turbofuel",
+    "recipe-alternate-turbofuel": {
         "name": "Turbofuel",
         "alternate": true,
         "time": 16.0,
@@ -1333,13 +1288,12 @@
                 "amount_per_minute": 18.75
             }
         ],
-        "producedIn": "refinery",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "refinery",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-packagedturbofuel",
+    "recipe-packagedturbofuel": {
         "name": "Packaged Turbofuel",
         "alternate": false,
         "time": 6.0,
@@ -1362,13 +1316,12 @@
                 "amount_per_minute": 20.0
             }
         ],
-        "producedIn": "packager",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "packager",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-unpackageturbofuel",
+    "recipe-unpackageturbofuel": {
         "name": "Unpackage Turbofuel",
         "alternate": false,
         "time": 6.0,
@@ -1391,13 +1344,12 @@
                 "amount_per_minute": 20.0
             }
         ],
-        "producedIn": "packager",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "packager",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-enrichedcoal",
+    "recipe-alternate-enrichedcoal": {
         "name": "Alternate: Compacted Coal",
         "alternate": true,
         "time": 12.0,
@@ -1420,13 +1372,12 @@
                 "amount_per_minute": 25.0
             }
         ],
-        "producedIn": "assembler",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "assembler",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-circuitboard",
+    "recipe-circuitboard": {
         "name": "Circuit Board",
         "alternate": false,
         "time": 8.0,
@@ -1449,13 +1400,12 @@
                 "amount_per_minute": 7.5
             }
         ],
-        "producedIn": "assembler",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "assembler",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-liquidfuel",
+    "recipe-liquidfuel": {
         "name": "Fuel",
         "alternate": false,
         "time": 6.0,
@@ -1478,13 +1428,12 @@
                 "amount_per_minute": 30.0
             }
         ],
-        "producedIn": "refinery",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "refinery",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-petroleumcoke",
+    "recipe-petroleumcoke": {
         "name": "Petroleum Coke",
         "alternate": false,
         "time": 6.0,
@@ -1502,13 +1451,12 @@
                 "amount_per_minute": 120.0
             }
         ],
-        "producedIn": "refinery",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "refinery",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-plasti",
+    "recipe-plasti": {
         "name": "Plastic",
         "alternate": false,
         "time": 6.0,
@@ -1531,13 +1479,12 @@
                 "amount_per_minute": 10.0
             }
         ],
-        "producedIn": "refinery",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "refinery",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-rubber",
+    "recipe-rubber": {
         "name": "Rubber",
         "alternate": false,
         "time": 6.0,
@@ -1560,13 +1507,12 @@
                 "amount_per_minute": 20.0
             }
         ],
-        "producedIn": "refinery",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "refinery",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-residualfuel",
+    "recipe-residualfuel": {
         "name": "Residual Fuel",
         "alternate": false,
         "time": 6.0,
@@ -1584,13 +1530,12 @@
                 "amount_per_minute": 40.0
             }
         ],
-        "producedIn": "refinery",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "refinery",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-residualplasti",
+    "recipe-residualplasti": {
         "name": "Residual Plastic",
         "alternate": false,
         "time": 6.0,
@@ -1613,13 +1558,12 @@
                 "amount_per_minute": 20.0
             }
         ],
-        "producedIn": "refinery",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "refinery",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-residualrubber",
+    "recipe-residualrubber": {
         "name": "Residual Rubber",
         "alternate": false,
         "time": 6.0,
@@ -1642,13 +1586,12 @@
                 "amount_per_minute": 20.0
             }
         ],
-        "producedIn": "refinery",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "refinery",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-diamond-pink",
+    "recipe-alternate-diamond-pink": {
         "name": "Alternate: Pink Diamonds",
         "alternate": true,
         "time": 4.0,
@@ -1671,13 +1614,12 @@
                 "amount_per_minute": 15.0
             }
         ],
-        "producedIn": "converter",
-        "isVariablePower": true,
-        "minPower": 100,
-        "maxPower": 400
+        "produced_in": "converter",
+        "is_variable_power": true,
+        "min_power": 100,
+        "max_power": 400
     },
-    {
-        "slug": "recipe-alternate-diamond-petroleum",
+    "recipe-alternate-diamond-petroleum": {
         "name": "Alternate: Petroleum Diamonds",
         "alternate": true,
         "time": 2.0,
@@ -1695,13 +1637,12 @@
                 "amount_per_minute": 30.0
             }
         ],
-        "producedIn": "particle-accelerator",
-        "isVariablePower": true,
-        "minPower": 250,
-        "maxPower": 750
+        "produced_in": "particle-accelerator",
+        "is_variable_power": true,
+        "min_power": 250,
+        "max_power": 750
     },
-    {
-        "slug": "recipe-alternate-diamond-oilbased",
+    "recipe-alternate-diamond-oilbased": {
         "name": "Alternate: Oil-Based Diamonds",
         "alternate": true,
         "time": 3.0,
@@ -1719,13 +1660,12 @@
                 "amount_per_minute": 40.0
             }
         ],
-        "producedIn": "particle-accelerator",
-        "isVariablePower": true,
-        "minPower": 250,
-        "maxPower": 750
+        "produced_in": "particle-accelerator",
+        "is_variable_power": true,
+        "min_power": 250,
+        "max_power": 750
     },
-    {
-        "slug": "recipe-alternate-diamond-cloudy",
+    "recipe-alternate-diamond-cloudy": {
         "name": "Alternate: Cloudy Diamonds",
         "alternate": true,
         "time": 3.0,
@@ -1748,13 +1688,12 @@
                 "amount_per_minute": 20.0
             }
         ],
-        "producedIn": "particle-accelerator",
-        "isVariablePower": true,
-        "minPower": 250,
-        "maxPower": 750
+        "produced_in": "particle-accelerator",
+        "is_variable_power": true,
+        "min_power": 250,
+        "max_power": 750
     },
-    {
-        "slug": "recipe-alternate-darkmatter-trap",
+    "recipe-alternate-darkmatter-trap": {
         "name": "Alternate: Dark Matter Trap",
         "alternate": true,
         "time": 2.0,
@@ -1777,13 +1716,12 @@
                 "amount_per_minute": 60.0
             }
         ],
-        "producedIn": "particle-accelerator",
-        "isVariablePower": true,
-        "minPower": 500,
-        "maxPower": 1500
+        "produced_in": "particle-accelerator",
+        "is_variable_power": true,
+        "min_power": 500,
+        "max_power": 1500
     },
-    {
-        "slug": "recipe-alternate-darkmatter-crystallization",
+    "recipe-alternate-darkmatter-crystallization": {
         "name": "Alternate: Dark Matter Crystallization",
         "alternate": true,
         "time": 3.0,
@@ -1801,13 +1739,12 @@
                 "amount_per_minute": 20.0
             }
         ],
-        "producedIn": "particle-accelerator",
-        "isVariablePower": true,
-        "minPower": 500,
-        "maxPower": 1500
+        "produced_in": "particle-accelerator",
+        "is_variable_power": true,
+        "min_power": 500,
+        "max_power": 1500
     },
-    {
-        "slug": "recipe-alternate-wetconcrete",
+    "recipe-alternate-wetconcrete": {
         "name": "Alternate: Wet Concrete",
         "alternate": true,
         "time": 3.0,
@@ -1830,13 +1767,12 @@
                 "amount_per_minute": 80.0
             }
         ],
-        "producedIn": "refinery",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "refinery",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-turboheavyfuel",
+    "recipe-alternate-turboheavyfuel": {
         "name": "Alternate: Turbo Heavy Fuel",
         "alternate": true,
         "time": 8.0,
@@ -1859,13 +1795,12 @@
                 "amount_per_minute": 30.0
             }
         ],
-        "producedIn": "refinery",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "refinery",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-steelrod",
+    "recipe-alternate-steelrod": {
         "name": "Alternate: Steel Rod",
         "alternate": true,
         "time": 5.0,
@@ -1883,13 +1818,12 @@
                 "amount_per_minute": 48.0
             }
         ],
-        "producedIn": "constructor",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "constructor",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-steelbeam",
+    "recipe-steelbeam": {
         "name": "Steel Beam",
         "alternate": false,
         "time": 4.0,
@@ -1907,13 +1841,12 @@
                 "amount_per_minute": 15.0
             }
         ],
-        "producedIn": "constructor",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "constructor",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-steelpipe",
+    "recipe-steelpipe": {
         "name": "Steel Pipe",
         "alternate": false,
         "time": 6.0,
@@ -1931,13 +1864,12 @@
                 "amount_per_minute": 20.0
             }
         ],
-        "producedIn": "constructor",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "constructor",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-ingotsteel",
+    "recipe-ingotsteel": {
         "name": "Steel Ingot",
         "alternate": false,
         "time": 4.0,
@@ -1960,13 +1892,12 @@
                 "amount_per_minute": 45.0
             }
         ],
-        "producedIn": "foundry",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "foundry",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-spaceelevatorpart-2",
+    "recipe-spaceelevatorpart-2": {
         "name": "Versatile Framework",
         "alternate": false,
         "time": 24.0,
@@ -1989,13 +1920,12 @@
                 "amount_per_minute": 5.0
             }
         ],
-        "producedIn": "assembler",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "assembler",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-steelcanister",
+    "recipe-alternate-steelcanister": {
         "name": "Alternate: Steel Canister",
         "alternate": true,
         "time": 6.0,
@@ -2013,13 +1943,12 @@
                 "amount_per_minute": 40.0
             }
         ],
-        "producedIn": "constructor",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "constructor",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-fluidcanister",
+    "recipe-fluidcanister": {
         "name": "Empty Canister",
         "alternate": false,
         "time": 4.0,
@@ -2037,13 +1966,12 @@
                 "amount_per_minute": 60.0
             }
         ],
-        "producedIn": "constructor",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "constructor",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-fuel",
+    "recipe-fuel": {
         "name": "Packaged Fuel",
         "alternate": false,
         "time": 3.0,
@@ -2066,13 +1994,12 @@
                 "amount_per_minute": 40.0
             }
         ],
-        "producedIn": "packager",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "packager",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-packagedcrudeoil",
+    "recipe-packagedcrudeoil": {
         "name": "Packaged Oil",
         "alternate": false,
         "time": 4.0,
@@ -2095,13 +2022,12 @@
                 "amount_per_minute": 30.0
             }
         ],
-        "producedIn": "packager",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "packager",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-packagedoilresidue",
+    "recipe-packagedoilresidue": {
         "name": "Packaged Heavy Oil Residue",
         "alternate": false,
         "time": 4.0,
@@ -2124,13 +2050,12 @@
                 "amount_per_minute": 30.0
             }
         ],
-        "producedIn": "packager",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "packager",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-packagedwater",
+    "recipe-packagedwater": {
         "name": "Packaged Water",
         "alternate": false,
         "time": 2.0,
@@ -2153,13 +2078,12 @@
                 "amount_per_minute": 60.0
             }
         ],
-        "producedIn": "packager",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "packager",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-unpackagefuel",
+    "recipe-unpackagefuel": {
         "name": "Unpackage Fuel",
         "alternate": false,
         "time": 2.0,
@@ -2182,13 +2106,12 @@
                 "amount_per_minute": 60.0
             }
         ],
-        "producedIn": "packager",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "packager",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-unpackageoil",
+    "recipe-unpackageoil": {
         "name": "Unpackage Oil",
         "alternate": false,
         "time": 2.0,
@@ -2211,13 +2134,12 @@
                 "amount_per_minute": 60.0
             }
         ],
-        "producedIn": "packager",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "packager",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-unpackageoilresidue",
+    "recipe-unpackageoilresidue": {
         "name": "Unpackage Heavy Oil Residue",
         "alternate": false,
         "time": 6.0,
@@ -2240,13 +2162,12 @@
                 "amount_per_minute": 20.0
             }
         ],
-        "producedIn": "packager",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "packager",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-unpackagewater",
+    "recipe-unpackagewater": {
         "name": "Unpackage Water",
         "alternate": false,
         "time": 1.0,
@@ -2269,13 +2190,12 @@
                 "amount_per_minute": 120.0
             }
         ],
-        "producedIn": "packager",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "packager",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-steamedcoppersheet",
+    "recipe-alternate-steamedcoppersheet": {
         "name": "Alternate: Steamed Copper Sheet",
         "alternate": true,
         "time": 8.0,
@@ -2298,13 +2218,12 @@
                 "amount_per_minute": 22.5
             }
         ],
-        "producedIn": "refinery",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "refinery",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-rubberconcrete",
+    "recipe-alternate-rubberconcrete": {
         "name": "Alternate: Rubber Concrete",
         "alternate": true,
         "time": 6.0,
@@ -2327,13 +2246,12 @@
                 "amount_per_minute": 90.0
             }
         ],
-        "producedIn": "assembler",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "assembler",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-recycledrubber",
+    "recipe-alternate-recycledrubber": {
         "name": "Alternate: Recycled Rubber",
         "alternate": true,
         "time": 12.0,
@@ -2356,13 +2274,12 @@
                 "amount_per_minute": 60.0
             }
         ],
-        "producedIn": "refinery",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "refinery",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-purequartzcrystal",
+    "recipe-alternate-purequartzcrystal": {
         "name": "Alternate: Pure Quartz Crystal",
         "alternate": true,
         "time": 8.0,
@@ -2385,13 +2302,12 @@
                 "amount_per_minute": 52.5
             }
         ],
-        "producedIn": "refinery",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "refinery",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-quartzcrystal",
+    "recipe-quartzcrystal": {
         "name": "Quartz Crystal",
         "alternate": false,
         "time": 8.0,
@@ -2409,13 +2325,12 @@
                 "amount_per_minute": 22.5
             }
         ],
-        "producedIn": "constructor",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "constructor",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-pureironingot",
+    "recipe-alternate-pureironingot": {
         "name": "Alternate: Pure Iron Ingot",
         "alternate": true,
         "time": 12.0,
@@ -2438,13 +2353,12 @@
                 "amount_per_minute": 65.0
             }
         ],
-        "producedIn": "refinery",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "refinery",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-purecopperingot",
+    "recipe-alternate-purecopperingot": {
         "name": "Alternate: Pure Copper Ingot",
         "alternate": true,
         "time": 24.0,
@@ -2467,13 +2381,12 @@
                 "amount_per_minute": 37.5
             }
         ],
-        "producedIn": "refinery",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "refinery",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-purecateriumingot",
+    "recipe-alternate-purecateriumingot": {
         "name": "Alternate: Pure Caterium Ingot",
         "alternate": true,
         "time": 5.0,
@@ -2496,13 +2409,12 @@
                 "amount_per_minute": 12.0
             }
         ],
-        "producedIn": "refinery",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "refinery",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-purealuminumingot",
+    "recipe-purealuminumingot": {
         "name": "Alternate: Pure Aluminum Ingot",
         "alternate": true,
         "time": 2.0,
@@ -2520,13 +2432,12 @@
                 "amount_per_minute": 30.0
             }
         ],
-        "producedIn": "smelter",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "smelter",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-aluminumcasing",
+    "recipe-aluminumcasing": {
         "name": "Aluminum Casing",
         "alternate": false,
         "time": 2.0,
@@ -2544,13 +2455,12 @@
                 "amount_per_minute": 60.0
             }
         ],
-        "producedIn": "constructor",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "constructor",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-aluminumsheet",
+    "recipe-aluminumsheet": {
         "name": "Alclad Aluminum Sheet",
         "alternate": false,
         "time": 6.0,
@@ -2573,13 +2483,12 @@
                 "amount_per_minute": 30.0
             }
         ],
-        "producedIn": "assembler",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "assembler",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-aluminasolution",
+    "recipe-aluminasolution": {
         "name": "Alumina Solution",
         "alternate": false,
         "time": 6.0,
@@ -2607,13 +2516,12 @@
                 "amount_per_minute": 50.0
             }
         ],
-        "producedIn": "refinery",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "refinery",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-aluminumscrap",
+    "recipe-aluminumscrap": {
         "name": "Aluminum Scrap",
         "alternate": false,
         "time": 1.0,
@@ -2641,13 +2549,12 @@
                 "amount_per_minute": 120.0
             }
         ],
-        "producedIn": "refinery",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "refinery",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-packagedalumina",
+    "recipe-packagedalumina": {
         "name": "Packaged Alumina Solution",
         "alternate": false,
         "time": 1.0,
@@ -2670,13 +2577,12 @@
                 "amount_per_minute": 120.0
             }
         ],
-        "producedIn": "packager",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "packager",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-ingotaluminum",
+    "recipe-ingotaluminum": {
         "name": "Aluminum Ingot",
         "alternate": false,
         "time": 4.0,
@@ -2699,13 +2605,12 @@
                 "amount_per_minute": 60.0
             }
         ],
-        "producedIn": "foundry",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "foundry",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-silica",
+    "recipe-silica": {
         "name": "Silica",
         "alternate": false,
         "time": 8.0,
@@ -2723,13 +2628,12 @@
                 "amount_per_minute": 37.5
             }
         ],
-        "producedIn": "constructor",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "constructor",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-crystaloscillator",
+    "recipe-crystaloscillator": {
         "name": "Crystal Oscillator",
         "alternate": false,
         "time": 120.0,
@@ -2757,13 +2661,12 @@
                 "amount_per_minute": 1.0
             }
         ],
-        "producedIn": "manufacturer",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "manufacturer",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-unpackagealumina",
+    "recipe-unpackagealumina": {
         "name": "Unpackage Alumina Solution",
         "alternate": false,
         "time": 1.0,
@@ -2786,13 +2689,12 @@
                 "amount_per_minute": 120.0
             }
         ],
-        "producedIn": "packager",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "packager",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-polymerresin",
+    "recipe-alternate-polymerresin": {
         "name": "Alternate: Polymer Resin",
         "alternate": true,
         "time": 6.0,
@@ -2815,13 +2717,12 @@
                 "amount_per_minute": 20.0
             }
         ],
-        "producedIn": "refinery",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "refinery",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-plasticsmartplating",
+    "recipe-alternate-plasticsmartplating": {
         "name": "Alternate: Plastic Smart Plating",
         "alternate": true,
         "time": 24.0,
@@ -2849,13 +2750,12 @@
                 "amount_per_minute": 5.0
             }
         ],
-        "producedIn": "manufacturer",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "manufacturer",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-highspeedwiring",
+    "recipe-alternate-highspeedwiring": {
         "name": "Alternate: Automated Speed Wiring",
         "alternate": true,
         "time": 32.0,
@@ -2883,13 +2783,12 @@
                 "amount_per_minute": 7.5
             }
         ],
-        "producedIn": "manufacturer",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "manufacturer",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-encasedindustrialbeam",
+    "recipe-encasedindustrialbeam": {
         "name": "Encased Industrial Beam",
         "alternate": false,
         "time": 10.0,
@@ -2912,13 +2811,12 @@
                 "amount_per_minute": 6.0
             }
         ],
-        "producedIn": "assembler",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "assembler",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-motor",
+    "recipe-motor": {
         "name": "Motor",
         "alternate": false,
         "time": 12.0,
@@ -2941,13 +2839,12 @@
                 "amount_per_minute": 5.0
             }
         ],
-        "producedIn": "assembler",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "assembler",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-stator",
+    "recipe-stator": {
         "name": "Stator",
         "alternate": false,
         "time": 12.0,
@@ -2970,13 +2867,12 @@
                 "amount_per_minute": 5.0
             }
         ],
-        "producedIn": "assembler",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "assembler",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-spaceelevatorpart-3",
+    "recipe-spaceelevatorpart-3": {
         "name": "Automated Wiring",
         "alternate": false,
         "time": 24.0,
@@ -2999,13 +2895,12 @@
                 "amount_per_minute": 2.5
             }
         ],
-        "producedIn": "assembler",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "assembler",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-ailimiter",
+    "recipe-ailimiter": {
         "name": "AI Limiter",
         "alternate": false,
         "time": 12.0,
@@ -3028,13 +2923,12 @@
                 "amount_per_minute": 5.0
             }
         ],
-        "producedIn": "assembler",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "assembler",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-heavyoilresidue",
+    "recipe-alternate-heavyoilresidue": {
         "name": "Alternate: Heavy Oil Residue",
         "alternate": true,
         "time": 6.0,
@@ -3057,13 +2951,12 @@
                 "amount_per_minute": 20.0
             }
         ],
-        "producedIn": "refinery",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "refinery",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-heavyflexibleframe",
+    "recipe-alternate-heavyflexibleframe": {
         "name": "Alternate: Heavy Flexible Frame",
         "alternate": true,
         "time": 16.0,
@@ -3096,13 +2989,12 @@
                 "amount_per_minute": 3.75
             }
         ],
-        "producedIn": "manufacturer",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "manufacturer",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-computer",
+    "recipe-computer": {
         "name": "Computer",
         "alternate": false,
         "time": 24.0,
@@ -3130,13 +3022,12 @@
                 "amount_per_minute": 2.5
             }
         ],
-        "producedIn": "manufacturer",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "manufacturer",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-modularframeheavy",
+    "recipe-modularframeheavy": {
         "name": "Heavy Modular Frame",
         "alternate": false,
         "time": 30.0,
@@ -3169,13 +3060,12 @@
                 "amount_per_minute": 2.0
             }
         ],
-        "producedIn": "manufacturer",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "manufacturer",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-spaceelevatorpart-4",
+    "recipe-spaceelevatorpart-4": {
         "name": "Modular Engine",
         "alternate": false,
         "time": 60.0,
@@ -3203,13 +3093,12 @@
                 "amount_per_minute": 1.0
             }
         ],
-        "producedIn": "manufacturer",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "manufacturer",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-spaceelevatorpart-5",
+    "recipe-spaceelevatorpart-5": {
         "name": "Adaptive Control Unit",
         "alternate": false,
         "time": 60.0,
@@ -3242,13 +3131,12 @@
                 "amount_per_minute": 1.0
             }
         ],
-        "producedIn": "manufacturer",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "manufacturer",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-fusedwire",
+    "recipe-alternate-fusedwire": {
         "name": "Alternate: Fused Wire",
         "alternate": true,
         "time": 20.0,
@@ -3271,13 +3159,12 @@
                 "amount_per_minute": 90.0
             }
         ],
-        "producedIn": "assembler",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "assembler",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-flexibleframework",
+    "recipe-alternate-flexibleframework": {
         "name": "Alternate: Flexible Framework",
         "alternate": true,
         "time": 16.0,
@@ -3305,13 +3192,12 @@
                 "amount_per_minute": 7.5
             }
         ],
-        "producedIn": "manufacturer",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "manufacturer",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-electrodecircuitboard",
+    "recipe-alternate-electrodecircuitboard": {
         "name": "Alternate: Electrode Circuit Board",
         "alternate": true,
         "time": 12.0,
@@ -3334,13 +3220,12 @@
                 "amount_per_minute": 5.0
             }
         ],
-        "producedIn": "assembler",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "assembler",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-electroaluminumscrap",
+    "recipe-alternate-electroaluminumscrap": {
         "name": "Alternate: Electrode Aluminum Scrap",
         "alternate": true,
         "time": 4.0,
@@ -3368,13 +3253,12 @@
                 "amount_per_minute": 105.0
             }
         ],
-        "producedIn": "refinery",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "refinery",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-dilutedpackagedfuel",
+    "recipe-alternate-dilutedpackagedfuel": {
         "name": "Alternate: Diluted Packaged Fuel",
         "alternate": true,
         "time": 2.0,
@@ -3397,13 +3281,12 @@
                 "amount_per_minute": 60.0
             }
         ],
-        "producedIn": "refinery",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "refinery",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-copperrotor",
+    "recipe-alternate-copperrotor": {
         "name": "Alternate: Copper Rotor",
         "alternate": true,
         "time": 16.0,
@@ -3426,13 +3309,12 @@
                 "amount_per_minute": 11.25
             }
         ],
-        "producedIn": "assembler",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "assembler",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-modularframe",
+    "recipe-modularframe": {
         "name": "Modular Frame",
         "alternate": false,
         "time": 60.0,
@@ -3455,13 +3337,12 @@
                 "amount_per_minute": 2.0
             }
         ],
-        "producedIn": "assembler",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "assembler",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-rotor",
+    "recipe-rotor": {
         "name": "Rotor",
         "alternate": false,
         "time": 15.0,
@@ -3484,13 +3365,12 @@
                 "amount_per_minute": 4.0
             }
         ],
-        "producedIn": "assembler",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "assembler",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-coppersheet",
+    "recipe-coppersheet": {
         "name": "Copper Sheet",
         "alternate": false,
         "time": 6.0,
@@ -3508,13 +3388,12 @@
                 "amount_per_minute": 10.0
             }
         ],
-        "producedIn": "constructor",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "constructor",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-spaceelevatorpart-1",
+    "recipe-spaceelevatorpart-1": {
         "name": "Smart Plating",
         "alternate": false,
         "time": 30.0,
@@ -3537,13 +3416,12 @@
                 "amount_per_minute": 2.0
             }
         ],
-        "producedIn": "assembler",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "assembler",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-copperalloyingot",
+    "recipe-alternate-copperalloyingot": {
         "name": "Alternate: Copper Alloy Ingot",
         "alternate": true,
         "time": 6.0,
@@ -3566,13 +3444,12 @@
                 "amount_per_minute": 100.0
             }
         ],
-        "producedIn": "foundry",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "foundry",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-cokesteelingot",
+    "recipe-alternate-cokesteelingot": {
         "name": "Alternate: Coke Steel Ingot",
         "alternate": true,
         "time": 12.0,
@@ -3595,13 +3472,12 @@
                 "amount_per_minute": 100.0
             }
         ],
-        "producedIn": "foundry",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "foundry",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-coatedironplate",
+    "recipe-alternate-coatedironplate": {
         "name": "Alternate: Coated Iron Plate",
         "alternate": true,
         "time": 8.0,
@@ -3624,13 +3500,12 @@
                 "amount_per_minute": 75.0
             }
         ],
-        "producedIn": "assembler",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "assembler",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-coatedironcanister",
+    "recipe-alternate-coatedironcanister": {
         "name": "Alternate: Coated Iron Canister",
         "alternate": true,
         "time": 4.0,
@@ -3653,13 +3528,12 @@
                 "amount_per_minute": 60.0
             }
         ],
-        "producedIn": "assembler",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "assembler",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-coatedcable",
+    "recipe-alternate-coatedcable": {
         "name": "Alternate: Coated Cable",
         "alternate": true,
         "time": 8.0,
@@ -3682,13 +3556,12 @@
                 "amount_per_minute": 67.5
             }
         ],
-        "producedIn": "refinery",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "refinery",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-boltedframe",
+    "recipe-alternate-boltedframe": {
         "name": "Alternate: Bolted Frame",
         "alternate": true,
         "time": 24.0,
@@ -3711,13 +3584,12 @@
                 "amount_per_minute": 5.0
             }
         ],
-        "producedIn": "assembler",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "assembler",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-adheredironplate",
+    "recipe-alternate-adheredironplate": {
         "name": "Alternate: Adhered Iron Plate",
         "alternate": true,
         "time": 16.0,
@@ -3740,13 +3612,12 @@
                 "amount_per_minute": 3.75
             }
         ],
-        "producedIn": "assembler",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "assembler",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-turbopressuremotor",
+    "recipe-alternate-turbopressuremotor": {
         "name": "Alternate: Turbo Pressure Motor",
         "alternate": true,
         "time": 32.0,
@@ -3779,13 +3650,12 @@
                 "amount_per_minute": 3.75
             }
         ],
-        "producedIn": "manufacturer",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "manufacturer",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-plutoniumcell",
+    "recipe-plutoniumcell": {
         "name": "Encased Plutonium Cell",
         "alternate": false,
         "time": 12.0,
@@ -3808,13 +3678,12 @@
                 "amount_per_minute": 5.0
             }
         ],
-        "producedIn": "assembler",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "assembler",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-pressureconversioncube",
+    "recipe-pressureconversioncube": {
         "name": "Pressure Conversion Cube",
         "alternate": false,
         "time": 60.0,
@@ -3837,13 +3706,12 @@
                 "amount_per_minute": 1.0
             }
         ],
-        "producedIn": "assembler",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "assembler",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-nitricacid",
+    "recipe-nitricacid": {
         "name": "Nitric Acid",
         "alternate": false,
         "time": 6.0,
@@ -3871,13 +3739,12 @@
                 "amount_per_minute": 30.0
             }
         ],
-        "producedIn": "blender",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "blender",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-nonfissileuranium",
+    "recipe-nonfissileuranium": {
         "name": "Non-Fissile Uranium",
         "alternate": false,
         "time": 24.0,
@@ -3915,13 +3782,12 @@
                 "amount_per_minute": 15.0
             }
         ],
-        "producedIn": "blender",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "blender",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-copperdust",
+    "recipe-copperdust": {
         "name": "Copper Powder",
         "alternate": false,
         "time": 6.0,
@@ -3939,13 +3805,12 @@
                 "amount_per_minute": 50.0
             }
         ],
-        "producedIn": "constructor",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "constructor",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-plutonium",
+    "recipe-plutonium": {
         "name": "Plutonium Pellet",
         "alternate": false,
         "time": 60.0,
@@ -3968,13 +3833,12 @@
                 "amount_per_minute": 30.0
             }
         ],
-        "producedIn": "particle-accelerator",
-        "isVariablePower": true,
-        "minPower": 250,
-        "maxPower": 750
+        "produced_in": "particle-accelerator",
+        "is_variable_power": true,
+        "min_power": 250,
+        "max_power": 750
     },
-    {
-        "slug": "recipe-plutoniumfuelrod",
+    "recipe-plutoniumfuelrod": {
         "name": "Plutonium Fuel Rod",
         "alternate": false,
         "time": 240.0,
@@ -4007,13 +3871,12 @@
                 "amount_per_minute": 0.25
             }
         ],
-        "producedIn": "manufacturer",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "manufacturer",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-packagednitricacid",
+    "recipe-packagednitricacid": {
         "name": "Packaged Nitric Acid",
         "alternate": false,
         "time": 2.0,
@@ -4036,13 +3899,12 @@
                 "amount_per_minute": 30.0
             }
         ],
-        "producedIn": "packager",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "packager",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-spaceelevatorpart-9",
+    "recipe-spaceelevatorpart-9": {
         "name": "Nuclear Pasta",
         "alternate": false,
         "time": 120.0,
@@ -4065,13 +3927,12 @@
                 "amount_per_minute": 0.5
             }
         ],
-        "producedIn": "particle-accelerator",
-        "isVariablePower": true,
-        "minPower": 500,
-        "maxPower": 1500
+        "produced_in": "particle-accelerator",
+        "is_variable_power": true,
+        "min_power": 500,
+        "max_power": 1500
     },
-    {
-        "slug": "recipe-unpackagenitricacid",
+    "recipe-unpackagenitricacid": {
         "name": "Unpackage Nitric Acid",
         "alternate": false,
         "time": 3.0,
@@ -4094,13 +3955,12 @@
                 "amount_per_minute": 20.0
             }
         ],
-        "producedIn": "packager",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "packager",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-turboblendfuel",
+    "recipe-alternate-turboblendfuel": {
         "name": "Alternate: Turbo Blend Fuel",
         "alternate": true,
         "time": 8.0,
@@ -4133,13 +3993,12 @@
                 "amount_per_minute": 45.0
             }
         ],
-        "producedIn": "blender",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "blender",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-uraniumcell",
+    "recipe-uraniumcell": {
         "name": "Encased Uranium Cell",
         "alternate": false,
         "time": 12.0,
@@ -4172,13 +4031,12 @@
                 "amount_per_minute": 10.0
             }
         ],
-        "producedIn": "blender",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "blender",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-coolingsystem",
+    "recipe-coolingsystem": {
         "name": "Cooling System",
         "alternate": false,
         "time": 10.0,
@@ -4211,13 +4069,12 @@
                 "amount_per_minute": 6.0
             }
         ],
-        "producedIn": "blender",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "blender",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-battery",
+    "recipe-battery": {
         "name": "Battery",
         "alternate": false,
         "time": 3.0,
@@ -4250,13 +4107,12 @@
                 "amount_per_minute": 30.0
             }
         ],
-        "producedIn": "blender",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "blender",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-computersuper",
+    "recipe-computersuper": {
         "name": "Supercomputer",
         "alternate": false,
         "time": 32.0,
@@ -4289,13 +4145,12 @@
                 "amount_per_minute": 1.875
             }
         ],
-        "producedIn": "manufacturer",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "manufacturer",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-radiocontrolunit",
+    "recipe-radiocontrolunit": {
         "name": "Radio Control Unit",
         "alternate": false,
         "time": 48.0,
@@ -4323,13 +4178,12 @@
                 "amount_per_minute": 2.5
             }
         ],
-        "producedIn": "manufacturer",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "manufacturer",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-sulfuricacid",
+    "recipe-sulfuricacid": {
         "name": "Sulfuric Acid",
         "alternate": false,
         "time": 6.0,
@@ -4352,13 +4206,12 @@
                 "amount_per_minute": 50.0
             }
         ],
-        "producedIn": "refinery",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "refinery",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-packagedsulfuricacid",
+    "recipe-packagedsulfuricacid": {
         "name": "Packaged Sulfuric Acid",
         "alternate": false,
         "time": 3.0,
@@ -4381,13 +4234,12 @@
                 "amount_per_minute": 40.0
             }
         ],
-        "producedIn": "packager",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "packager",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-spaceelevatorpart-7",
+    "recipe-spaceelevatorpart-7": {
         "name": "Assembly Director System",
         "alternate": false,
         "time": 80.0,
@@ -4410,13 +4262,12 @@
                 "amount_per_minute": 0.75
             }
         ],
-        "producedIn": "assembler",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "assembler",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-highspeedconnector",
+    "recipe-highspeedconnector": {
         "name": "High-Speed Connector",
         "alternate": false,
         "time": 16.0,
@@ -4444,13 +4295,12 @@
                 "amount_per_minute": 3.75
             }
         ],
-        "producedIn": "manufacturer",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "manufacturer",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-unpackagesulfuricacid",
+    "recipe-unpackagesulfuricacid": {
         "name": "Unpackage Sulfuric Acid",
         "alternate": false,
         "time": 1.0,
@@ -4473,13 +4323,12 @@
                 "amount_per_minute": 60.0
             }
         ],
-        "producedIn": "packager",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "packager",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-superstatecomputer",
+    "recipe-alternate-superstatecomputer": {
         "name": "Alternate: Super-State Computer",
         "alternate": true,
         "time": 25.0,
@@ -4512,13 +4361,12 @@
                 "amount_per_minute": 2.4
             }
         ],
-        "producedIn": "manufacturer",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "manufacturer",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-electromagneticcontrolrod",
+    "recipe-electromagneticcontrolrod": {
         "name": "Electromagnetic Control Rod",
         "alternate": false,
         "time": 30.0,
@@ -4541,13 +4389,12 @@
                 "amount_per_minute": 4.0
             }
         ],
-        "producedIn": "assembler",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "assembler",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-nuclearfuelrod",
+    "recipe-nuclearfuelrod": {
         "name": "Uranium Fuel Rod",
         "alternate": false,
         "time": 150.0,
@@ -4575,13 +4422,12 @@
                 "amount_per_minute": 0.4
             }
         ],
-        "producedIn": "manufacturer",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "manufacturer",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-spaceelevatorpart-6",
+    "recipe-spaceelevatorpart-6": {
         "name": "Magnetic Field Generator",
         "alternate": false,
         "time": 120.0,
@@ -4604,13 +4450,12 @@
                 "amount_per_minute": 1.0
             }
         ],
-        "producedIn": "assembler",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "assembler",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-sloppyalumina",
+    "recipe-alternate-sloppyalumina": {
         "name": "Alternate: Sloppy Alumina",
         "alternate": true,
         "time": 3.0,
@@ -4633,13 +4478,12 @@
                 "amount_per_minute": 240.0
             }
         ],
-        "producedIn": "refinery",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "refinery",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-radiocontrolsystem",
+    "recipe-alternate-radiocontrolsystem": {
         "name": "Alternate: Radio Control System",
         "alternate": true,
         "time": 40.0,
@@ -4672,13 +4516,12 @@
                 "amount_per_minute": 4.5
             }
         ],
-        "producedIn": "manufacturer",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "manufacturer",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-plutoniumfuelunit",
+    "recipe-alternate-plutoniumfuelunit": {
         "name": "Alternate: Plutonium Fuel Unit",
         "alternate": true,
         "time": 120.0,
@@ -4701,13 +4544,12 @@
                 "amount_per_minute": 0.5
             }
         ],
-        "producedIn": "assembler",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "assembler",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-ocsupercomputer",
+    "recipe-alternate-ocsupercomputer": {
         "name": "Alternate: OC Supercomputer",
         "alternate": true,
         "time": 20.0,
@@ -4730,13 +4572,12 @@
                 "amount_per_minute": 3.0
             }
         ],
-        "producedIn": "assembler",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "assembler",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-heatsink",
+    "recipe-heatsink": {
         "name": "Heat Sink",
         "alternate": false,
         "time": 8.0,
@@ -4759,13 +4600,12 @@
                 "amount_per_minute": 7.5
             }
         ],
-        "producedIn": "assembler",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "assembler",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-fusedmodularframe",
+    "recipe-fusedmodularframe": {
         "name": "Fused Modular Frame",
         "alternate": false,
         "time": 40.0,
@@ -4793,13 +4633,12 @@
                 "amount_per_minute": 1.5
             }
         ],
-        "producedIn": "blender",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "blender",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-gastank",
+    "recipe-gastank": {
         "name": "Empty Fluid Tank",
         "alternate": false,
         "time": 1.0,
@@ -4817,13 +4656,12 @@
                 "amount_per_minute": 60.0
             }
         ],
-        "producedIn": "constructor",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "constructor",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-packagednitrogen",
+    "recipe-packagednitrogen": {
         "name": "Packaged Nitrogen Gas",
         "alternate": false,
         "time": 1.0,
@@ -4846,13 +4684,12 @@
                 "amount_per_minute": 60.0
             }
         ],
-        "producedIn": "packager",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "packager",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-unpackagenitrogen",
+    "recipe-unpackagenitrogen": {
         "name": "Unpackage Nitrogen Gas",
         "alternate": false,
         "time": 1.0,
@@ -4875,13 +4712,12 @@
                 "amount_per_minute": 60.0
             }
         ],
-        "producedIn": "packager",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "packager",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-instantscrap",
+    "recipe-alternate-instantscrap": {
         "name": "Alternate: Instant Scrap",
         "alternate": true,
         "time": 6.0,
@@ -4919,13 +4755,12 @@
                 "amount_per_minute": 50.0
             }
         ],
-        "producedIn": "blender",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "blender",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-instantplutoniumcell",
+    "recipe-alternate-instantplutoniumcell": {
         "name": "Alternate: Instant Plutonium Cell",
         "alternate": true,
         "time": 120.0,
@@ -4948,13 +4783,12 @@
                 "amount_per_minute": 10.0
             }
         ],
-        "producedIn": "particle-accelerator",
-        "isVariablePower": true,
-        "minPower": 250,
-        "maxPower": 750
+        "produced_in": "particle-accelerator",
+        "is_variable_power": true,
+        "min_power": 250,
+        "max_power": 750
     },
-    {
-        "slug": "recipe-alternate-heatfusedframe",
+    "recipe-alternate-heatfusedframe": {
         "name": "Alternate: Heat-Fused Frame",
         "alternate": true,
         "time": 20.0,
@@ -4987,13 +4821,12 @@
                 "amount_per_minute": 3.0
             }
         ],
-        "producedIn": "blender",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "blender",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-fertileuranium",
+    "recipe-alternate-fertileuranium": {
         "name": "Alternate: Fertile Uranium",
         "alternate": true,
         "time": 12.0,
@@ -5031,13 +4864,12 @@
                 "amount_per_minute": 40.0
             }
         ],
-        "producedIn": "blender",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "blender",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-electricmotor",
+    "recipe-alternate-electricmotor": {
         "name": "Alternate: Electric Motor",
         "alternate": true,
         "time": 16.0,
@@ -5060,13 +4892,12 @@
                 "amount_per_minute": 7.5
             }
         ],
-        "producedIn": "assembler",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "assembler",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-dilutedfuel",
+    "recipe-alternate-dilutedfuel": {
         "name": "Alternate: Diluted Fuel",
         "alternate": true,
         "time": 6.0,
@@ -5089,13 +4920,12 @@
                 "amount_per_minute": 100.0
             }
         ],
-        "producedIn": "blender",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "blender",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-coolingdevice",
+    "recipe-alternate-coolingdevice": {
         "name": "Alternate: Cooling Device",
         "alternate": true,
         "time": 24.0,
@@ -5123,13 +4953,12 @@
                 "amount_per_minute": 5.0
             }
         ],
-        "producedIn": "blender",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "blender",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-classicbattery",
+    "recipe-alternate-classicbattery": {
         "name": "Alternate: Classic Battery",
         "alternate": true,
         "time": 8.0,
@@ -5162,13 +4991,12 @@
                 "amount_per_minute": 30.0
             }
         ],
-        "producedIn": "manufacturer",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "manufacturer",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-automatedminer",
+    "recipe-alternate-automatedminer": {
         "name": "Alternate: Automated Miner",
         "alternate": true,
         "time": 60.0,
@@ -5191,13 +5019,12 @@
                 "amount_per_minute": 1.0
             }
         ],
-        "producedIn": "assembler",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "assembler",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-alcladcasing",
+    "recipe-alternate-alcladcasing": {
         "name": "Alternate: Alclad Casing",
         "alternate": true,
         "time": 8.0,
@@ -5220,13 +5047,12 @@
                 "amount_per_minute": 112.5
             }
         ],
-        "producedIn": "assembler",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "assembler",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-steelpipe-molded",
+    "recipe-alternate-steelpipe-molded": {
         "name": "Alternate: Molded Steel Pipe",
         "alternate": true,
         "time": 6.0,
@@ -5249,13 +5075,12 @@
                 "amount_per_minute": 50.0
             }
         ],
-        "producedIn": "foundry",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "foundry",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-steelpipe-iron",
+    "recipe-alternate-steelpipe-iron": {
         "name": "Alternate: Iron Pipe",
         "alternate": true,
         "time": 12.0,
@@ -5273,13 +5098,12 @@
                 "amount_per_minute": 25.0
             }
         ],
-        "producedIn": "constructor",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "constructor",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-steelcastedplate",
+    "recipe-alternate-steelcastedplate": {
         "name": "Alternate: Steel Cast Plate",
         "alternate": true,
         "time": 4.0,
@@ -5302,13 +5126,12 @@
                 "amount_per_minute": 45.0
             }
         ],
-        "producedIn": "foundry",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "foundry",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-steelbeam-molded",
+    "recipe-alternate-steelbeam-molded": {
         "name": "Alternate: Molded Beam",
         "alternate": true,
         "time": 12.0,
@@ -5331,13 +5154,12 @@
                 "amount_per_minute": 45.0
             }
         ],
-        "producedIn": "foundry",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "foundry",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-steelbeam-aluminum",
+    "recipe-alternate-steelbeam-aluminum": {
         "name": "Alternate: Aluminum Beam",
         "alternate": true,
         "time": 8.0,
@@ -5355,13 +5177,12 @@
                 "amount_per_minute": 22.5
             }
         ],
-        "producedIn": "constructor",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "constructor",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-aluminumrod",
+    "recipe-alternate-aluminumrod": {
         "name": "Alternate: Aluminum Rod",
         "alternate": true,
         "time": 8.0,
@@ -5379,13 +5200,12 @@
                 "amount_per_minute": 52.5
             }
         ],
-        "producedIn": "constructor",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "constructor",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-ailimiter-plasti",
+    "recipe-alternate-ailimiter-plasti": {
         "name": "Alternate: Plastic AI Limiter",
         "alternate": true,
         "time": 15.0,
@@ -5408,13 +5228,12 @@
                 "amount_per_minute": 8.0
             }
         ],
-        "producedIn": "assembler",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "assembler",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-silica-distilled",
+    "recipe-alternate-silica-distilled": {
         "name": "Alternate: Distilled Silica",
         "alternate": true,
         "time": 6.0,
@@ -5447,13 +5266,12 @@
                 "amount_per_minute": 80.0
             }
         ],
-        "producedIn": "blender",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "blender",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-quartz-purified",
+    "recipe-alternate-quartz-purified": {
         "name": "Alternate: Quartz Purification",
         "alternate": true,
         "time": 12.0,
@@ -5481,13 +5299,12 @@
                 "amount_per_minute": 60.0
             }
         ],
-        "producedIn": "refinery",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "refinery",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-quartz-fused",
+    "recipe-alternate-quartz-fused": {
         "name": "Alternate: Fused Quartz Crystal",
         "alternate": true,
         "time": 20.0,
@@ -5510,13 +5327,12 @@
                 "amount_per_minute": 54.0
             }
         ],
-        "producedIn": "foundry",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "foundry",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-ironingot-leached",
+    "recipe-alternate-ironingot-leached": {
         "name": "Alternate: Leached Iron ingot",
         "alternate": true,
         "time": 6.0,
@@ -5539,13 +5355,12 @@
                 "amount_per_minute": 100.0
             }
         ],
-        "producedIn": "refinery",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "refinery",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-ironingot-basi",
+    "recipe-alternate-ironingot-basi": {
         "name": "Alternate: Basic Iron Ingot",
         "alternate": true,
         "time": 12.0,
@@ -5568,13 +5383,12 @@
                 "amount_per_minute": 50.0
             }
         ],
-        "producedIn": "foundry",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "foundry",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-copperingot-tempered",
+    "recipe-alternate-copperingot-tempered": {
         "name": "Alternate: Tempered Copper Ingot",
         "alternate": true,
         "time": 12.0,
@@ -5597,13 +5411,12 @@
                 "amount_per_minute": 60.0
             }
         ],
-        "producedIn": "foundry",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "foundry",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-copperingot-leached",
+    "recipe-alternate-copperingot-leached": {
         "name": "Alternate: Leached Copper Ingot",
         "alternate": true,
         "time": 12.0,
@@ -5626,13 +5439,12 @@
                 "amount_per_minute": 110.0
             }
         ],
-        "producedIn": "refinery",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "refinery",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-cateriumingot-tempered",
+    "recipe-alternate-cateriumingot-tempered": {
         "name": "Alternate: Tempered Caterium Ingot",
         "alternate": true,
         "time": 8.0,
@@ -5655,13 +5467,12 @@
                 "amount_per_minute": 22.5
             }
         ],
-        "producedIn": "foundry",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "foundry",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-cateriumingot-leached",
+    "recipe-alternate-cateriumingot-leached": {
         "name": "Alternate: Leached Caterium Ingot",
         "alternate": true,
         "time": 10.0,
@@ -5684,13 +5495,12 @@
                 "amount_per_minute": 36.0
             }
         ],
-        "producedIn": "refinery",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "refinery",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-wire-2",
+    "recipe-alternate-wire-2": {
         "name": "Alternate: Caterium Wire",
         "alternate": true,
         "time": 4.0,
@@ -5708,13 +5518,12 @@
                 "amount_per_minute": 120.0
             }
         ],
-        "producedIn": "constructor",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "constructor",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-wire-1",
+    "recipe-alternate-wire-1": {
         "name": "Alternate: Iron Wire",
         "alternate": true,
         "time": 24.0,
@@ -5732,13 +5541,12 @@
                 "amount_per_minute": 22.5
             }
         ],
-        "producedIn": "constructor",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "constructor",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-uraniumcell-1",
+    "recipe-alternate-uraniumcell-1": {
         "name": "Alternate: Infused Uranium Cell",
         "alternate": true,
         "time": 12.0,
@@ -5771,13 +5579,12 @@
                 "amount_per_minute": 20.0
             }
         ],
-        "producedIn": "manufacturer",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "manufacturer",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-ingotcaterium",
+    "recipe-ingotcaterium": {
         "name": "Caterium Ingot",
         "alternate": false,
         "time": 4.0,
@@ -5795,13 +5602,12 @@
                 "amount_per_minute": 15.0
             }
         ],
-        "producedIn": "smelter",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "smelter",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-turbomotor-1",
+    "recipe-alternate-turbomotor-1": {
         "name": "Alternate: Turbo Electric Motor",
         "alternate": true,
         "time": 64.0,
@@ -5834,13 +5640,12 @@
                 "amount_per_minute": 2.8125
             }
         ],
-        "producedIn": "manufacturer",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "manufacturer",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-motorturbo",
+    "recipe-motorturbo": {
         "name": "Turbo Motor",
         "alternate": false,
         "time": 32.0,
@@ -5873,13 +5678,12 @@
                 "amount_per_minute": 1.875
             }
         ],
-        "producedIn": "manufacturer",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "manufacturer",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-spaceelevatorpart-8",
+    "recipe-spaceelevatorpart-8": {
         "name": "Thermal Propulsion Rocket",
         "alternate": false,
         "time": 120.0,
@@ -5912,13 +5716,12 @@
                 "amount_per_minute": 1.0
             }
         ],
-        "producedIn": "manufacturer",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "manufacturer",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-stator",
+    "recipe-alternate-stator": {
         "name": "Alternate: Quickwire Stator",
         "alternate": true,
         "time": 15.0,
@@ -5941,13 +5744,12 @@
                 "amount_per_minute": 8.0
             }
         ],
-        "producedIn": "assembler",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "assembler",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-silica",
+    "recipe-alternate-silica": {
         "name": "Alternate: Cheap Silica",
         "alternate": true,
         "time": 8.0,
@@ -5970,13 +5772,12 @@
                 "amount_per_minute": 52.5
             }
         ],
-        "producedIn": "assembler",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "assembler",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-screw-2",
+    "recipe-alternate-screw-2": {
         "name": "Alternate: Steel Screw",
         "alternate": true,
         "time": 12.0,
@@ -5994,13 +5795,12 @@
                 "amount_per_minute": 260.0
             }
         ],
-        "producedIn": "constructor",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "constructor",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-screw",
+    "recipe-alternate-screw": {
         "name": "Alternate: Cast Screw",
         "alternate": true,
         "time": 24.0,
@@ -6018,13 +5818,12 @@
                 "amount_per_minute": 50.0
             }
         ],
-        "producedIn": "constructor",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "constructor",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-rotor",
+    "recipe-alternate-rotor": {
         "name": "Alternate: Steel Rotor",
         "alternate": true,
         "time": 12.0,
@@ -6047,13 +5846,12 @@
                 "amount_per_minute": 5.0
             }
         ],
-        "producedIn": "assembler",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "assembler",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-encasedindustrialbeam",
+    "recipe-alternate-encasedindustrialbeam": {
         "name": "Alternate: Encased Industrial Pipe",
         "alternate": true,
         "time": 15.0,
@@ -6076,13 +5874,12 @@
                 "amount_per_minute": 4.0
             }
         ],
-        "producedIn": "assembler",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "assembler",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-reinforcedironplate-2",
+    "recipe-alternate-reinforcedironplate-2": {
         "name": "Alternate: Stitched Iron Plate",
         "alternate": true,
         "time": 32.0,
@@ -6105,13 +5902,12 @@
                 "amount_per_minute": 5.625
             }
         ],
-        "producedIn": "assembler",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "assembler",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-reinforcedironplate-1",
+    "recipe-alternate-reinforcedironplate-1": {
         "name": "Alternate: Bolted Iron Plate",
         "alternate": true,
         "time": 12.0,
@@ -6134,13 +5930,12 @@
                 "amount_per_minute": 15.0
             }
         ],
-        "producedIn": "assembler",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "assembler",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-radiocontrolunit-1",
+    "recipe-alternate-radiocontrolunit-1": {
         "name": "Alternate: Radio Connection Unit",
         "alternate": true,
         "time": 16.0,
@@ -6168,13 +5963,12 @@
                 "amount_per_minute": 3.75
             }
         ],
-        "producedIn": "manufacturer",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "manufacturer",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-quickwire",
+    "recipe-alternate-quickwire": {
         "name": "Alternate: Fused Quickwire",
         "alternate": true,
         "time": 8.0,
@@ -6197,13 +5991,12 @@
                 "amount_per_minute": 90.0
             }
         ],
-        "producedIn": "assembler",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "assembler",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-plastic-1",
+    "recipe-alternate-plastic-1": {
         "name": "Alternate: Recycled Plastic",
         "alternate": true,
         "time": 12.0,
@@ -6226,13 +6019,12 @@
                 "amount_per_minute": 60.0
             }
         ],
-        "producedIn": "refinery",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "refinery",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-nuclearfuelrod-1",
+    "recipe-alternate-nuclearfuelrod-1": {
         "name": "Alternate: Uranium Fuel Unit",
         "alternate": true,
         "time": 300.0,
@@ -6265,13 +6057,12 @@
                 "amount_per_minute": 0.6
             }
         ],
-        "producedIn": "manufacturer",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "manufacturer",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-motor-1",
+    "recipe-alternate-motor-1": {
         "name": "Alternate: Rigor Motor",
         "alternate": true,
         "time": 48.0,
@@ -6299,13 +6090,12 @@
                 "amount_per_minute": 7.5
             }
         ],
-        "producedIn": "manufacturer",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "manufacturer",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-modularframe",
+    "recipe-alternate-modularframe": {
         "name": "Alternate: Steeled Frame",
         "alternate": true,
         "time": 60.0,
@@ -6328,13 +6118,12 @@
                 "amount_per_minute": 3.0
             }
         ],
-        "producedIn": "assembler",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "assembler",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-ingotsteel-2",
+    "recipe-alternate-ingotsteel-2": {
         "name": "Alternate: Compacted Steel Ingot",
         "alternate": true,
         "time": 24.0,
@@ -6357,13 +6146,12 @@
                 "amount_per_minute": 10.0
             }
         ],
-        "producedIn": "foundry",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "foundry",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-ingotsteel-1",
+    "recipe-alternate-ingotsteel-1": {
         "name": "Alternate: Solid Steel Ingot",
         "alternate": true,
         "time": 3.0,
@@ -6386,13 +6174,12 @@
                 "amount_per_minute": 60.0
             }
         ],
-        "producedIn": "foundry",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "foundry",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-ingotiron",
+    "recipe-alternate-ingotiron": {
         "name": "Alternate: Iron Alloy Ingot",
         "alternate": true,
         "time": 12.0,
@@ -6415,13 +6202,12 @@
                 "amount_per_minute": 75.0
             }
         ],
-        "producedIn": "foundry",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "foundry",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-highspeedconnector",
+    "recipe-alternate-highspeedconnector": {
         "name": "Alternate: Silicon High-Speed Connector",
         "alternate": true,
         "time": 40.0,
@@ -6449,13 +6235,12 @@
                 "amount_per_minute": 3.0
             }
         ],
-        "producedIn": "manufacturer",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "manufacturer",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-modularframeheavy",
+    "recipe-alternate-modularframeheavy": {
         "name": "Alternate: Heavy Encased Frame",
         "alternate": true,
         "time": 64.0,
@@ -6488,13 +6273,12 @@
                 "amount_per_minute": 2.8125
             }
         ],
-        "producedIn": "manufacturer",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "manufacturer",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-heatsink-1",
+    "recipe-alternate-heatsink-1": {
         "name": "Alternate: Heat Exchanger",
         "alternate": true,
         "time": 6.0,
@@ -6517,13 +6301,12 @@
                 "amount_per_minute": 10.0
             }
         ],
-        "producedIn": "assembler",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "assembler",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-gunpowder-1",
+    "recipe-alternate-gunpowder-1": {
         "name": "Alternate: Fine Black Powder",
         "alternate": true,
         "time": 8.0,
@@ -6546,13 +6329,12 @@
                 "amount_per_minute": 45.0
             }
         ],
-        "producedIn": "assembler",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "assembler",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-electromagneticcontrolrod-1",
+    "recipe-alternate-electromagneticcontrolrod-1": {
         "name": "Alternate: Electromagnetic Connection Rod",
         "alternate": true,
         "time": 15.0,
@@ -6575,13 +6357,12 @@
                 "amount_per_minute": 8.0
             }
         ],
-        "producedIn": "assembler",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "assembler",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-crystaloscillator",
+    "recipe-alternate-crystaloscillator": {
         "name": "Alternate: Insulated Crystal Oscillator",
         "alternate": true,
         "time": 32.0,
@@ -6609,13 +6390,12 @@
                 "amount_per_minute": 1.875
             }
         ],
-        "producedIn": "manufacturer",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "manufacturer",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-concrete",
+    "recipe-alternate-concrete": {
         "name": "Alternate: Fine Concrete",
         "alternate": true,
         "time": 12.0,
@@ -6638,13 +6418,12 @@
                 "amount_per_minute": 50.0
             }
         ],
-        "producedIn": "assembler",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "assembler",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-computer-2",
+    "recipe-alternate-computer-2": {
         "name": "Alternate: Crystal Computer",
         "alternate": true,
         "time": 36.0,
@@ -6667,13 +6446,12 @@
                 "amount_per_minute": 3.3333333333333335
             }
         ],
-        "producedIn": "assembler",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "assembler",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-computer-1",
+    "recipe-alternate-computer-1": {
         "name": "Alternate: Caterium Computer",
         "alternate": true,
         "time": 16.0,
@@ -6701,13 +6479,12 @@
                 "amount_per_minute": 3.75
             }
         ],
-        "producedIn": "manufacturer",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "manufacturer",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-circuitboard-2",
+    "recipe-alternate-circuitboard-2": {
         "name": "Alternate: Caterium Circuit Board",
         "alternate": true,
         "time": 48.0,
@@ -6730,13 +6507,12 @@
                 "amount_per_minute": 8.75
             }
         ],
-        "producedIn": "assembler",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "assembler",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-circuitboard-1",
+    "recipe-alternate-circuitboard-1": {
         "name": "Alternate: Silicon Circuit Board",
         "alternate": true,
         "time": 24.0,
@@ -6759,13 +6535,12 @@
                 "amount_per_minute": 12.5
             }
         ],
-        "producedIn": "assembler",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "assembler",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-cable-2",
+    "recipe-alternate-cable-2": {
         "name": "Alternate: Quickwire Cable",
         "alternate": true,
         "time": 24.0,
@@ -6788,13 +6563,12 @@
                 "amount_per_minute": 27.5
             }
         ],
-        "producedIn": "assembler",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "assembler",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-cable-1",
+    "recipe-alternate-cable-1": {
         "name": "Alternate: Insulated Cable",
         "alternate": true,
         "time": 12.0,
@@ -6817,13 +6591,12 @@
                 "amount_per_minute": 100.0
             }
         ],
-        "producedIn": "assembler",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "assembler",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-ficsonium",
+    "recipe-ficsonium": {
         "name": "Ficsonium",
         "alternate": false,
         "time": 6.0,
@@ -6851,13 +6624,12 @@
                 "amount_per_minute": 10.0
             }
         ],
-        "producedIn": "particle-accelerator",
-        "isVariablePower": true,
-        "minPower": 500,
-        "maxPower": 1500
+        "produced_in": "particle-accelerator",
+        "is_variable_power": true,
+        "min_power": 500,
+        "max_power": 1500
     },
-    {
-        "slug": "recipe-ficsoniumfuelrod",
+    "recipe-ficsoniumfuelrod": {
         "name": "Ficsonium Fuel Rod",
         "alternate": false,
         "time": 24.0,
@@ -6895,13 +6667,12 @@
                 "amount_per_minute": 50.0
             }
         ],
-        "producedIn": "quantum-encoder",
-        "isVariablePower": true,
-        "minPower": 0,
-        "maxPower": 2000
+        "produced_in": "quantum-encoder",
+        "is_variable_power": true,
+        "min_power": 0,
+        "max_power": 2000
     },
-    {
-        "slug": "recipe-singularitycell",
+    "recipe-singularitycell": {
         "name": "Singularity Cell",
         "alternate": false,
         "time": 60.0,
@@ -6934,13 +6705,12 @@
                 "amount_per_minute": 10.0
             }
         ],
-        "producedIn": "manufacturer",
-        "isVariablePower": true,
-        "minPower": 0,
-        "maxPower": 0
+        "produced_in": "manufacturer",
+        "is_variable_power": true,
+        "min_power": 0,
+        "max_power": 0
     },
-    {
-        "slug": "recipe-spaceelevatorpart-11",
+    "recipe-spaceelevatorpart-11": {
         "name": "Ballistic Warp Drive",
         "alternate": false,
         "time": 60.0,
@@ -6973,13 +6743,12 @@
                 "amount_per_minute": 1.0
             }
         ],
-        "producedIn": "manufacturer",
-        "isVariablePower": true,
-        "minPower": 500,
-        "maxPower": 1500
+        "produced_in": "manufacturer",
+        "is_variable_power": true,
+        "min_power": 500,
+        "max_power": 1500
     },
-    {
-        "slug": "recipe-filterhazmat",
+    "recipe-filterhazmat": {
         "name": "Iodine-Infused Filter",
         "alternate": false,
         "time": 16.0,
@@ -7007,13 +6776,12 @@
                 "amount_per_minute": 3.75
             }
         ],
-        "producedIn": "manufacturer",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "manufacturer",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-quickwire",
+    "recipe-quickwire": {
         "name": "Quickwire",
         "alternate": false,
         "time": 5.0,
@@ -7031,13 +6799,12 @@
                 "amount_per_minute": 60.0
             }
         ],
-        "producedIn": "constructor",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "constructor",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-gunpowder",
+    "recipe-gunpowder": {
         "name": "Black Powder",
         "alternate": false,
         "time": 4.0,
@@ -7060,13 +6827,12 @@
                 "amount_per_minute": 30.0
             }
         ],
-        "producedIn": "assembler",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "assembler",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alienpowerfuel",
+    "recipe-alienpowerfuel": {
         "name": "Alien Power Matrix",
         "alternate": false,
         "time": 24.0,
@@ -7104,13 +6870,12 @@
                 "amount_per_minute": 60.0
             }
         ],
-        "producedIn": "quantum-encoder",
-        "isVariablePower": true,
-        "minPower": 0,
-        "maxPower": 2000
+        "produced_in": "quantum-encoder",
+        "is_variable_power": true,
+        "min_power": 0,
+        "max_power": 2000
     },
-    {
-        "slug": "recipe-spikedrebar",
+    "recipe-spikedrebar": {
         "name": "Iron Rebar",
         "alternate": false,
         "time": 4.0,
@@ -7128,13 +6893,12 @@
                 "amount_per_minute": 15.0
             }
         ],
-        "producedIn": "constructor",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "constructor",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-cartridgesmart",
+    "recipe-cartridgesmart": {
         "name": "Homing Rifle Ammo",
         "alternate": false,
         "time": 24.0,
@@ -7157,13 +6921,12 @@
                 "amount_per_minute": 25.0
             }
         ],
-        "producedIn": "assembler",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "assembler",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-rebar-stunshot",
+    "recipe-rebar-stunshot": {
         "name": "Stun Rebar",
         "alternate": false,
         "time": 6.0,
@@ -7186,13 +6949,12 @@
                 "amount_per_minute": 10.0
             }
         ],
-        "producedIn": "assembler",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "assembler",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-filtergasmask",
+    "recipe-filtergasmask": {
         "name": "Gas Filter",
         "alternate": false,
         "time": 8.0,
@@ -7220,13 +6982,12 @@
                 "amount_per_minute": 7.5
             }
         ],
-        "producedIn": "manufacturer",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "manufacturer",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-alternate-polyesterfabri",
+    "recipe-alternate-polyesterfabri": {
         "name": "Alternate: Polyester Fabric",
         "alternate": true,
         "time": 2.0,
@@ -7249,13 +7010,12 @@
                 "amount_per_minute": 30.0
             }
         ],
-        "producedIn": "refinery",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "refinery",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-syntheticpowershard",
+    "recipe-syntheticpowershard": {
         "name": "Synthetic Power Shard",
         "alternate": false,
         "time": 12.0,
@@ -7293,13 +7053,12 @@
                 "amount_per_minute": 60.0
             }
         ],
-        "producedIn": "quantum-encoder",
-        "isVariablePower": true,
-        "minPower": 0,
-        "maxPower": 2000
+        "produced_in": "quantum-encoder",
+        "is_variable_power": true,
+        "min_power": 0,
+        "max_power": 2000
     },
-    {
-        "slug": "recipe-nobeliskshockwave",
+    "recipe-nobeliskshockwave": {
         "name": "Pulse Nobelisk",
         "alternate": false,
         "time": 60.0,
@@ -7322,13 +7081,12 @@
                 "amount_per_minute": 5.0
             }
         ],
-        "producedIn": "assembler",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "assembler",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-rebar-spreadshot",
+    "recipe-rebar-spreadshot": {
         "name": "Shatter Rebar",
         "alternate": false,
         "time": 12.0,
@@ -7351,13 +7109,12 @@
                 "amount_per_minute": 5.0
             }
         ],
-        "producedIn": "assembler",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "assembler",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-cartridgechaos-packaged",
+    "recipe-cartridgechaos-packaged": {
         "name": "Turbo Rifle Ammo",
         "alternate": false,
         "time": 12.0,
@@ -7385,13 +7142,12 @@
                 "amount_per_minute": 250.0
             }
         ],
-        "producedIn": "manufacturer",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "manufacturer",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-cartridgechaos",
+    "recipe-cartridgechaos": {
         "name": "Turbo Rifle Ammo",
         "alternate": false,
         "time": 12.0,
@@ -7419,13 +7175,12 @@
                 "amount_per_minute": 250.0
             }
         ],
-        "producedIn": "blender",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "blender",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-nobelisknuke",
+    "recipe-nobelisknuke": {
         "name": "Nuke Nobelisk",
         "alternate": false,
         "time": 120.0,
@@ -7458,13 +7213,12 @@
                 "amount_per_minute": 0.5
             }
         ],
-        "producedIn": "manufacturer",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "manufacturer",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-cartridge",
+    "recipe-cartridge": {
         "name": "Rifle Ammo",
         "alternate": false,
         "time": 12.0,
@@ -7487,13 +7241,12 @@
                 "amount_per_minute": 75.0
             }
         ],
-        "producedIn": "assembler",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "assembler",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-rebar-explosive",
+    "recipe-rebar-explosive": {
         "name": "Explosive Rebar",
         "alternate": false,
         "time": 12.0,
@@ -7521,13 +7274,12 @@
                 "amount_per_minute": 5.0
             }
         ],
-        "producedIn": "manufacturer",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "manufacturer",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-nobeliskcluster",
+    "recipe-nobeliskcluster": {
         "name": "Cluster Nobelisk",
         "alternate": false,
         "time": 24.0,
@@ -7550,13 +7302,12 @@
                 "amount_per_minute": 2.5
             }
         ],
-        "producedIn": "assembler",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "assembler",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-nobelisk",
+    "recipe-nobelisk": {
         "name": "Nobelisk",
         "alternate": false,
         "time": 6.0,
@@ -7579,13 +7330,12 @@
                 "amount_per_minute": 10.0
             }
         ],
-        "producedIn": "assembler",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "assembler",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-gunpowdermk2",
+    "recipe-gunpowdermk2": {
         "name": "Smokeless Powder",
         "alternate": false,
         "time": 6.0,
@@ -7608,13 +7358,12 @@
                 "amount_per_minute": 20.0
             }
         ],
-        "producedIn": "refinery",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "refinery",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-ironplatereinforced",
+    "recipe-ironplatereinforced": {
         "name": "Reinforced Iron Plate",
         "alternate": false,
         "time": 12.0,
@@ -7637,13 +7386,12 @@
                 "amount_per_minute": 5.0
             }
         ],
-        "producedIn": "assembler",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "assembler",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-concrete",
+    "recipe-concrete": {
         "name": "Concrete",
         "alternate": false,
         "time": 4.0,
@@ -7661,13 +7409,12 @@
                 "amount_per_minute": 15.0
             }
         ],
-        "producedIn": "constructor",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "constructor",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-screw",
+    "recipe-screw": {
         "name": "Screw",
         "alternate": false,
         "time": 6.0,
@@ -7685,13 +7432,12 @@
                 "amount_per_minute": 40.0
             }
         ],
-        "producedIn": "constructor",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "constructor",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-cable",
+    "recipe-cable": {
         "name": "Cable",
         "alternate": false,
         "time": 2.0,
@@ -7709,13 +7455,12 @@
                 "amount_per_minute": 30.0
             }
         ],
-        "producedIn": "constructor",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "constructor",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-wire",
+    "recipe-wire": {
         "name": "Wire",
         "alternate": false,
         "time": 4.0,
@@ -7733,13 +7478,12 @@
                 "amount_per_minute": 30.0
             }
         ],
-        "producedIn": "constructor",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "constructor",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     },
-    {
-        "slug": "recipe-ingotcopper",
+    "recipe-ingotcopper": {
         "name": "Copper Ingot",
         "alternate": false,
         "time": 2.0,
@@ -7757,9 +7501,9 @@
                 "amount_per_minute": 30.0
             }
         ],
-        "producedIn": "smelter",
-        "isVariablePower": false,
-        "minPower": 0,
-        "maxPower": 1
+        "produced_in": "smelter",
+        "is_variable_power": false,
+        "min_power": 0,
+        "max_power": 1
     }
-]
+}
