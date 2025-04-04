@@ -1,0 +1,36 @@
+[
+    {
+        "fuel": [
+            "coal",
+            "compacted-coal",
+            "petroleum-coke"
+        ],
+        "powerProduction": 75,
+        "powerProductionExponent": 1.6,
+        "waterToPowerRatio": 10.0,
+        "slug": "generator-coal"
+    },
+    {
+        "fuel": [
+            "uranium-fuel-rod",
+            "plutonium-fuel-rod",
+            "ficsonium-fuel-rod"
+        ],
+        "powerProduction": 2500,
+        "powerProductionExponent": 1.6,
+        "waterToPowerRatio": 1.6,
+        "slug": "generator-nuclear"
+    },
+    {
+        "fuel": [
+            "fuel",
+            "turbofuel",
+            "rocket-fuel",
+            "ionized-fuel"
+        ],
+        "powerProduction": 250,
+        "powerProductionExponent": 1.6,
+        "waterToPowerRatio": 0.0,
+        "slug": "generator-fuel"
+    }
+]

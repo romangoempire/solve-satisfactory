@@ -1,0 +1,68 @@
+[
+    {
+        "slug": "quantum-encoder",
+        "name": "Quantum Encoder",
+        "className": "Desc_QuantumEncoder_C",
+        "powerConsumption": 0
+    },
+    {
+        "slug": "converter",
+        "name": "Converter",
+        "className": "Desc_Converter_C",
+        "powerConsumption": 0
+    },
+    {
+        "slug": "refinery",
+        "name": "Refinery",
+        "className": "Desc_OilRefinery_C",
+        "powerConsumption": 30
+    },
+    {
+        "slug": "foundry",
+        "name": "Foundry",
+        "className": "Desc_FoundryMk1_C",
+        "powerConsumption": 16
+    },
+    {
+        "slug": "packager",
+        "name": "Packager",
+        "className": "Desc_Packager_C",
+        "powerConsumption": 10
+    },
+    {
+        "slug": "manufacturer",
+        "name": "Manufacturer",
+        "className": "Desc_ManufacturerMk1_C",
+        "powerConsumption": 55
+    },
+    {
+        "slug": "assembler",
+        "name": "Assembler",
+        "className": "Desc_AssemblerMk1_C",
+        "powerConsumption": 15
+    },
+    {
+        "slug": "particle-accelerator",
+        "name": "Particle Accelerator",
+        "className": "Desc_HadronCollider_C",
+        "powerConsumption": 0
+    },
+    {
+        "slug": "blender",
+        "name": "Blender",
+        "className": "Desc_Blender_C",
+        "powerConsumption": 75
+    },
+    {
+        "slug": "constructor",
+        "name": "Constructor",
+        "className": "Desc_ConstructorMk1_C",
+        "powerConsumption": 4
+    },
+    {
+        "slug": "smelter",
+        "name": "Smelter",
+        "className": "Desc_SmelterMk1_C",
+        "powerConsumption": 4
+    }
+]
