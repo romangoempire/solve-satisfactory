@@ -70,5 +70,11 @@
         "amount": 10200,
         "percentage_of_total": 0.030937215650591446,
         "rarity": 9.029411764705882
+    },
+    "water": {
+        "name": "water",
+        "amount": 0,
+        "percentage_of_total": 0,
+        "rarity": 0
     }
 }

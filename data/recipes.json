@@ -1456,7 +1456,7 @@
         "min_power": 0,
         "max_power": 1
     },
-    "recipe-plasti": {
+    "recipe-plastic": {
         "name": "Plastic",
         "alternate": false,
         "time": 6.0,
@@ -1535,7 +1535,7 @@
         "min_power": 0,
         "max_power": 1
     },
-    "recipe-residualplasti": {
+    "recipe-residualplastic": {
         "name": "Residual Plastic",
         "alternate": false,
         "time": 6.0,
@@ -5205,7 +5205,7 @@
         "min_power": 0,
         "max_power": 1
     },
-    "recipe-alternate-ailimiter-plasti": {
+    "recipe-alternate-ailimiter-plastic": {
         "name": "Alternate: Plastic AI Limiter",
         "alternate": true,
         "time": 15.0,
@@ -5360,7 +5360,7 @@
         "min_power": 0,
         "max_power": 1
     },
-    "recipe-alternate-ironingot-basi": {
+    "recipe-alternate-ironingot-basic": {
         "name": "Alternate: Basic Iron Ingot",
         "alternate": true,
         "time": 12.0,
@@ -6987,7 +6987,7 @@
         "min_power": 0,
         "max_power": 1
     },
-    "recipe-alternate-polyesterfabri": {
+    "recipe-alternate-polyesterfabric": {
         "name": "Alternate: Polyester Fabric",
         "alternate": true,
         "time": 2.0,
